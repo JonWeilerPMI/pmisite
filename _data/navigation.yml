@@ -1,0 +1,59 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: Methodology
+  url: "/getting-started/"
+  side: left
+
+- title: "Courses and Locations"
+  url: "/design/"
+  side: left
+  dropdown:
+  - title: "Fundamental Foundations"
+    url: "https://store.professionalmarksmen.com/index.php?l=product_detail&p=9"
+  - title: "Defensive Pistol"
+    url: "https://store.professionalmarksmen.com/index.php?l=product_list&c=1"
+  - title: "Defensive Rifle"
+    url: "https://store.professionalmarksmen.com/index.php?l=product_list&c=2"
+  - title: "Defensive Shotgun"
+    url: "https://store.professionalmarksmen.com/index.php?l=product_list&c=3"
+  
+
+
+- title: "PMI Instructors"
+  url: "/headers/"
+  side: left
+  dropdown:
+  - title: "Jon Weiler"
+    url: "/design/header-full-width-image/"
+  - title: "Jim Rutske"
+    url: "/design/header-image-pattern/"
+  - title: "Steve Overman"
+    url: "/design/header-image-color/"
+
+
+- title: Employment
+  url: "/documentation/"
+  side: left
+  dropdown:
+  - title: "Defensive Lead Instructor"
+    url: "/documentation/"
+  - title: "Precision Lead Instructor"
+    url: "/changelog/"
+  - title: "Roadmap"
+    url: "/roadmap/"
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: Blog
+    url: "/blog/"
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+
+- title: "Contact"
+  url: "/contact/"
+  side: right

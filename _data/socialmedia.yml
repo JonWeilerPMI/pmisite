@@ -1,0 +1,20 @@
+- name: YouTube
+  url: https://www.youtube.com/channel/UC4pKEORK1hkHWKhFUFIpngg
+  class: icon-youtube
+  title: "PMI on YouTube"
+
+- name: Twitter
+  url: http://twitter.com/promarksmeninc
+  class: icon-twitter
+  title: "Professional Marksmen Inc. Twitter"
+
+- name: Facebook
+  url: https://www.facebook.com/pages/Professional-Marksmen-Inc/97228050163
+  class: icon-facebook
+  title: "Follow us on Facebook"
+
+- name: Instagram
+  url: http://instagram.com/phlowmedia
+  class: icon-instagram
+  title: "Bilder und Impressionen mit und ohne Filter..."
+
