@@ -21,8 +21,8 @@ description: "»Professional Marksmen Inc. utilizes military combat veterans and
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "http://jonweilerpmi.github.io/professionalmarksmen"
-baseurl: "http://jonweilerpmi.github.io/professionalmarksmen"
+url: "http://jonweilerpmi.github.io/pmisite"
+baseurl: "http://jonweilerpmi.github.io/pmisite"
 
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -33,7 +33,7 @@ baseurl: "http://jonweilerpmi.github.io/professionalmarksmen"
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "http://jonweilerpmi.github.io/professionalmarksmen/images/"
+urlimg: "http://jonweilerpmi.github.io/pmisite/images/"
 
 
 # Logo size is 600x80 pixels
