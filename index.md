@@ -12,7 +12,7 @@ widget-1:
     title: "Train for Everyday"
     url: 'http://phlow.github.io/feeling-responsive/blog/'
     text: 'Professional Marksmen Inc. focuses on a training methodology that revolves around our Everyday and how we realistically integrate the Defensive Tool within it.'
-    image: unsplash_9-302x182.jpg
+    image: /images/unsplash_9-302x182.jpg
 widget-2:
     title: "Why use this theme?"
     url: 'http://phlow.github.io/feeling-responsive/info/'
