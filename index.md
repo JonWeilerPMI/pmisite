@@ -14,9 +14,9 @@ widget-1:
     text: 'Professional Marksmen Inc. focuses on a training methodology that revolves around our Everyday and how we realistically integrate the Defensive Tool within it.'
     image: /images/unsplash_9-302x182.jpg
 widget-2:
-    title: "Why use this theme?"
+    title: "Shooting on the Edge of Science"
     url: 'http://phlow.github.io/feeling-responsive/info/'
-    text: '<em>Feeling Responsive</em> is heavily customizable.<br>1. Language-Support :)<br>2. Optimized for speed and it&#39;s responsive.<br>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br>4. Seven different Headers.<br>5. Customizable navigation, footer,...'
+    text: 'The Whittington U Precision Academy - School of Extreme Long Range: Shooting on the Edge of Science.  Three seperate ranges to facilitate a progressive curriculum, reactive steel targets and 2.07 Mile capabilities.'
     video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
 widget-3:
     title: "Download Theme"
@@ -28,7 +28,6 @@ widget-3:
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/U-rqvPWDUvU" frameborder="0" allowfullscreen></iframe>  </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
