@@ -9,9 +9,9 @@ title: "Professional Marksmen Inc. – Train for Everyday"
 header:
    image_fullwidth: "header_unsplash_12.jpg"
 widget-1:
-    title: "Blog & Portfolio"
+    title: "Train for Everyday"
     url: 'http://phlow.github.io/feeling-responsive/blog/'
-    text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+    text: 'Professional Marksmen Inc. focuses on a training methodology that revolves around our Everyday and how we realistically integrate the Defensive Tool within it.'
     image: unsplash_9-302x182.jpg
 widget-2:
     title: "Why use this theme?"
