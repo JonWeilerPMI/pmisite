@@ -20,7 +20,7 @@ widget-2:
     video: '<a href="#" data-reveal-id="videoModal"><img src="http://jonweilerpmi.github.io/pmisite/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
 widget-3:
     title: "Train at your Local Facilities"
-    url: 'http://jonweilerpmi.github.io/contact/'
+    url: 'http://jonweilerpmi.github.io/pmisite/contact/'
     text: 'We want to come to you!  Contact us for more information on our Mobile Training Courses and hosting a course at your local range!'
     image: github-303x182.jpg
 ---
