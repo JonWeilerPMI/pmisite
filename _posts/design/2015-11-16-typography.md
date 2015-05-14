@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "Training for Everyday"
 subheadline: "Defensive Lifestyle"
-meta_teaser: "Feeling Responsive uses Volkhov for headlines, Lato for everything else and if you are in need to show some code, it will be in Lucida Console."
+meta_teaser: "PMI advocates a Defensive Lifestyle, one that encompasses all aspects of Life, from fitness to preparedness to firearm proficiency."
 teaser: "<em>Feeling Responsive</em> uses <a href='https://www.google.com/fonts/specimen/Volkhov'>Volkhov</a> for headlines, <a href='https://www.google.com/fonts/specimen/Lato'>Lato</a> for everything else and if you are in need to show some code, it will be in <a href='http://www.microsoft.com/typography/fonts/family.aspx?FID=18'>Lucida Console</a> or <a href='http://en.wikipedia.org/wiki/Monaco_(typeface)'>Monaco</a>."
 header: no
 image:
@@ -90,6 +90,7 @@ Here you'll find the [complete list of HTML5-Tags][1] and this is how they look 
 ### &lt;hr&gt; Horizontal Line
 <hr>
 
+&lt;pre&gt; test color
 
 ### &lt;pre&gt; Displaying Code
 ~~~
