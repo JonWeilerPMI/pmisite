@@ -89,8 +89,9 @@ Here you'll find the [complete list of HTML5-Tags][1] and this is how they look 
 
 ### &lt;hr&gt; Horizontal Line
 <hr>
-
+~~~
 &lt;pre&gt; test color
+~~~
 
 ### &lt;pre&gt; Displaying Code
 ~~~
