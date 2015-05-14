@@ -4,12 +4,12 @@ subheadline: "The Defensive Lifestyle"
 title: "Train for Everyday"
 teaser: "A Defensive Posture is a very active one."
 header:
-    image_fullwidth: "header_typewriter.jpg"
-    caption: Image by Florian Klauer
-    caption_url: "http://florianklauer.de/"
+    image_fullwidth: "train_for_everyday.jpg"
+    caption: PMI Defensive Rifle
+    caption_url: "https://store.professionalmarksmen.com/index.php?l=product_list&c=2"
 image:
-    thumb:  typewriter_thumb.jpg
-    homepage: homepage_typewriter.jpg
+    thumb:  train_for_everyday_thumb.jpg
+    homepage: train_for_everyday.jpg
 categories:
     - design
 comments: true
