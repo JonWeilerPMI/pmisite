@@ -6,15 +6,20 @@
 - name: Twitter
   url: http://twitter.com/promarksmeninc
   class: icon-twitter
-  title: "Professional Marksmen Inc. Twitter"
+  title: "Tweet?"
 
 - name: Facebook
   url: https://www.facebook.com/pages/Professional-Marksmen-Inc/97228050163
   class: icon-facebook
-  title: "Follow us on Facebook"
+  title: "Where it's at."
 
 - name: Instagram
-  url: http://instagram.com/phlowmedia
+  url: http://instagram.com/promarksmeninc
   class: icon-instagram
-  title: "Bilder und Impressionen mit und ohne Filter..."
+  title: "Life through the PMI Lens..."
+  
+- name: Google Plus
+  url: https://plus.google.com/+Professionalmarksmen/posts
+  class: icon-googleplus
+  title: "+1 Us!"
 
