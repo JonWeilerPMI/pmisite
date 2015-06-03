@@ -10,7 +10,7 @@ header:
 ---
 ...almost like the blinders have been taken off.
 
-Our lives are dangerous and they always have been.  Nothing around us changes, but we begin to see; we take the responsible steps to protect ourselves and those we love.
+Our lives are dangerous and they always have been.  Our world around us does not change, but we begin to see differently - we take the responsible steps to protect ourselves and those we love.
 
 ## PMI Method
 
