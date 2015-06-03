@@ -5,17 +5,14 @@
   class: "network-entypo"
   title: "Survival Trial - The Ultimate Test"
 
-- name: "Built on Foundation"
-  url: "http://foundation.zurb.com/"
+- name: "Whittington U"
+  url: "http://nrawc.org/training/"
   class: "services-newsletter"
-  title: "Built on Foundation"
+  title: "Whittington U"
 
-- name: "Images by Unsplash"
-  url: "http://unsplash.com/"
+- name: "NRA Whittington Center"
+  url: "http://nrawc.org"
   class: "rss-link"
-  title: "Images by Unsplash"
+  title: "NRA Whittington Center"
 
-- name: "Using Backstretch by Scott Robbin"
-  url: "http://srobbin.com/jquery-plugins/backstretch/"
-  class: "sitemap-link"
-  title: "Using Backstretch by Scott Robbin"
+

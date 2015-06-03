@@ -2,7 +2,7 @@
   url: "/"
   side: left
 
-- title: Methodology
+- title: The PMI Method
   url: "/getting-started/"
   side: left
 
@@ -44,13 +44,13 @@
   - title: "Roadmap"
     url: "/roadmap/"
 
-- title: Blog
+- title: Articles
   url: "/blog/"
   side: left
   dropdown:
-  - title: Blog
+  - title: Current
     url: "/blog/"
-  - title: "Blog Archive"
+  - title: "Archive"
     url: "/blog/archive/"
 
 

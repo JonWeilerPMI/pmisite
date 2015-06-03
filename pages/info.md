@@ -1,51 +1,32 @@
 ---
 layout: page
 title: "About"
-subheadline: "Why another Jekyll Theme?"
+subheadline: "Train for Everyday"
 show_meta: false
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+teaser: "Lifestyle is the key phrase when it comes to training for everyday.  When we adopt the firearm tool into our lives, things change for us.  We see things differently... "
 permalink: "/info/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
-...and learn at the same time.
+...almost like the blinders have been taken off.
 
-*Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
+Our lives are dangerous and they always have been.  Nothing around us changes, but we begin to see; we take the responsible steps to protect ourselves and those we love.
 
+## PMI Method
 
-## Features
-
-* Responsive Gallery, Videos, Grid, Typography,...
-* 100% GitHub Pages friendly
-* Easy editable navigation, footer and social media links
-* Language Ready – just translate one file.
-* Lots of possibilities to customize it to your needs
-* Lots of different headers
-* Various post formats to let your content shine
-* Uses Jekyll 3.0
-* Multiple possibilities to use images in different ways
-* Fine typography
+* Consistent - Efficient - Safe interaction with the Defensive Tool
+* Defensive:  Violence as the means of Last Resort
+* Holistic Understanding of the firearm platform, environement and ourselves
+* Train for Everyday
+* Physical Fitness is a cornerstone of a Defensive Lifestyle
+* Surroundings:  Heightened Awareness is never a negative thing
+* Confidence in ourselves and our equipment is a direct result of training
+* An armed citizen is a responsible citizen
 
 
 
-## I got inspired by...
+## Our Lives...
 
-[Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
+Our lives are filled with uncertainty but this does not mean they are filled with despair.  We cannot control Time; we can only control what we do with it.  We train for the worst case situations but live our lives the best way we can.  The PMI Method will help you in an understanding of this.  We focus on a holstic approach to ourselves.  We first must understand ourselves, our capabilities and our limitations.  The become our perameters.  Anyone is capable of anything; it only a matter of belief.  
 
-Please make *Feeling Responsive* yours and if you like it, please link back to my homebase <a href="http://phlow.de/">Phlow</a>. That would be awesome.
-
-#### Since then, fork it!
-
-Yours sincerelly, [Moritz »mo.« Sauer][7]
-
-
- [1]: http://mademistakes.com/about/
- [2]: http://mademistakes.com/work/jekyll-themes/
- [3]: http://automattic.com/
- [4]: http://alistapart.com/
- [5]: http://www.smashingmagazine.com/
- [6]: https://github.com/
- [7]: http://sauer.io
- [8]: #
- [9]: #
- [10]: #
+We want to help you be the best person that you can be.

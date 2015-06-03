@@ -7,12 +7,12 @@ subheadline: "Contact us "
 teaser: "Email us below"
 permalink: "/contact/"
 ---
-Professional Marksmen Inc.
-PO Box 317
-Colome, SD 57528
+<p>Professional Marksmen Inc.</p>
+<p>PO Box 317</p>
+<p>Colome, SD 57528</p>
 
-605-610-8598
-info@professionalmarksmen.com
+<p>605-610-8598</p>
+<p>info@professionalmarksmen.com</p>
 
 <div class="panel">
 <iframe height="519" allowTransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none"  src="https://promarksmen.wufoo.com/embed/z1tpikm510fcxxk/"><a href="https://promarksmen.wufoo.com/forms/z1tpikm510fcxxk/">Fill out my Wufoo form!</a></iframe><div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;"><span class="notranslate"></span></div></div>
