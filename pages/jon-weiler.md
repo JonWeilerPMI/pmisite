@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title:  "Jon Weiler"
 subheadline:  "CEO of Professional Marksmen Inc."
 teaser: "Jon Weiler is a former U.S. Army Sniper over ten years active experience working with precision long range cartridges..."
