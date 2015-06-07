@@ -26,11 +26,11 @@
   side: left
   dropdown:
   - title: "Jon Weiler"
-    url: "/Instructors/2015-06-06-jon-weiler/"
+    url: "/jon_weiler/"
   - title: "Jim Rutske"
-    url: "/Instructors/2015-06-06-jim-rutske/"
+    url: "/jim_rutske/"
   - title: "Steve Overman"
-    url: "/Instructors/2015-06-06-steve-overman/"
+    url: "/steve_overman/"
 
 
 - title: Employment
