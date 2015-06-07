@@ -6,7 +6,7 @@ show_meta: false
 teaser: "Steve is a retired Albuquerque, NM Police Officer with 20yrs of service.  During his career with the Albuquerque Police Department (APD)... "
 permalink: "/steve_overman/"
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: "steveoverman.jpg"
 ---
 
 ...he worked as a Uniformed Patrol Officer, a Criminal Investigative Detective and a Special Investigations Undercover Detective.  Steve also served as an APD Academy instructor for four years, training veteran APD officers & basic APD cadets in General Law Enforcement subjects, Firearms, Defensive Tactics, and several other Police disciplines.  He also served as an adjunct Firearms Instructor for the New Mexico Law Enforcement Academy, Santa Fe, NM. 
