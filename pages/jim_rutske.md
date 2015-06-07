@@ -6,7 +6,7 @@ show_meta: false
 teaser: "Jim Rutske is a retired U.S. Air Force Explosive Ordnance Disposal EOD (Bomb Squad) Technician with ... "
 permalink: "/jim_rutske/"
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: "jimrutske.jpg"
 ---
 
 ...twenty years of active duty experience. Deploying to every major conflict since Desert Storm he has accumulated a depth of tactical field experience and combat capability from dismounted team maneuvers to armored route clearance patrols. His final combat deployment was to Baghdad in 2007-2008 under the Army’s Task Force Troy Counter-Improvised Explosive Device unit where his actions on the battlefield earned him the Army Bronze Star. 
