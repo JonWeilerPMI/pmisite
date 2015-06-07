@@ -21,7 +21,7 @@ widget-2:
 widget-3:
     title: "Train at your Local Facilities"
     url: 'http://jonweilerpmi.github.io/pmisite/contact/'
-    text: 'We want to come to you!  We give you Contact us for more information on our Mobile Training Courses and hosting a course at your local range!'
+    text: 'We want to come to you!  Contact us for more information on our Mobile Training Courses and hosting a course at your local range!'
     image: github-303x182.jpg
 ---
 
