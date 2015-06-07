@@ -6,10 +6,10 @@ show_meta: false
 teaser: "Work with the Best!"
 permalink: "/precision_lead/"
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: "precinst.jpg"
 ---
 
-### Job Title:  Precision Academy Lead Instructor
+# Job Title:  Precision Academy Lead Instructor
 
 ## Precision Academy Lead Instructor Purpose:
 
