@@ -37,12 +37,15 @@ Provide instruction of the official PMI Defensive Academy Course Curriculum at t
 ## Instructor Development:
 
     * Complete the PMI two-day Instructor Certification Course
-    * Complete a minimum of two course iterations as an Assistant Instructor under the guidance of a fully certified Lead Instructor.
-    * Complete a minimum of two course iterations as a Lead Instructor under the evaluation of a fully certified Lead Instructor
+    * Complete a minimum of two course iterations as an Assistant Instructor 
+	  under the guidance of a fully certified Lead Instructor.
+    * Complete a minimum of two course iterations as a Lead Instructor 
+	  under the evaluation of a fully certified Lead Instructor
 
 ## Defensive Academy Lead Instructor Duties and Responsibilities:
 
-    A PMI Lead Instructor may be certified to instruct one or all of the Defensive Academy courses (Pistol, Carbine, Shotgun, etc.)
+    A PMI Lead Instructor may be certified to instruct one or all of the 
+	Defensive Academy courses (Pistol, Carbine, Shotgun, etc.)
 	
     Adhere to the PMI Course Curriculum which includes but is not limited to:
             
@@ -57,8 +60,12 @@ Provide instruction of the official PMI Defensive Academy Course Curriculum at t
                 * Principles of Cover Presentation
                     ** Lowlight Engagement Presentation and Range Duty
                     ** Support Side Engagement Presentation and Range Duty
-                        * Maintain a positive and supportive interaction with all students
+                        * Maintain a positive and supportive interaction with 
+						  all students
                         * Maintain a professional demeanor and appearance
-                        * Adhere to and enforce PMI Policies and SOPs at all times
-                        * Delivers corrective advice and guidance to students improving their fundamentals and marksmanship.
-                        * Observes students during live firing to ensure safety procedures are followed.
+                        * Adhere to and enforce PMI Policies and SOPs 
+						  at all times
+                        * Delivers corrective advice and guidance to students 
+						  improving their fundamentals and marksmanship.
+                        * Observes students during live firing to ensure safety 
+						  procedures are followed.
