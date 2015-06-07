@@ -4,7 +4,7 @@ title: "Instructors"
 subheadline: "Meet the PMI Lead Instructors"
 show_meta: false
 teaser: "Jon Weiler is a former U.S. Army Sniper over ten years active experience working with precision long range cartridges ... "
-permalink: "/employment/"
+permalink: "/defensive_lead/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
