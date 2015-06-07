@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Jon Weiler"
-subheadline: "CEO - Professional Marksmen Inc."
+title: "PMI Instructors"
+subheadline: "Meet the PMI Lead Instructors"
 show_meta: false
-teaser: "Jon Weiler is a former U.S. Army Sniper over ten years active experience working with precision long range cartridges ... "
+teaser: "Our Instructors are some of the best in the industry."
 permalink: "/instructors/"
 header:
     image_fullwidth: "instructors.jpg"
