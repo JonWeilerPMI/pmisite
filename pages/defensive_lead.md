@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Instructors"
-subheadline: "Meet the PMI Lead Instructors"
+title: "Defensive Lead Instructor"
+subheadline: "Employment Opportunities with Professional Marksmen Inc."
 show_meta: false
-teaser: "Jon Weiler is a former U.S. Army Sniper over ten years active experience working with precision long range cartridges ... "
+teaser: "Work with the best!"
 permalink: "/defensive_lead/"
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: "deflead.jpg"
 ---
 
 
