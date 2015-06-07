@@ -7,7 +7,7 @@
   side: left
 
 - title: "Courses and Locations"
-  url: "/design/"
+  url: "https://store.professionalmarksmen.com"
   side: left
   dropdown:
   - title: "Fundamental Foundations"
@@ -26,7 +26,7 @@
   side: left
   dropdown:
   - title: "Jon Weiler"
-    url: "/design/header-full-width-image/"
+    url: "/jon-weiler/"
   - title: "Jim Rutske"
     url: "/design/header-image-pattern/"
   - title: "Steve Overman"
