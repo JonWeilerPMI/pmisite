@@ -60,12 +60,10 @@ Provide instruction of the official PMI Defensive Academy Course Curriculum at t
                 * Principles of Cover Presentation
                     ** Lowlight Engagement Presentation and Range Duty
                     ** Support Side Engagement Presentation and Range Duty
-                        * Maintain a positive and supportive interaction with 
-						  all students
-                        * Maintain a professional demeanor and appearance
-                        * Adhere to and enforce PMI Policies and SOPs 
-						  at all times
-                        * Delivers corrective advice and guidance to students 
-						  improving their fundamentals and marksmanship.
-                        * Observes students during live firing to ensure safety 
-						  procedures are followed.
+            * Maintain a positive and supportive interaction with all students
+            * Maintain a professional demeanor and appearance
+            * Adhere to and enforce PMI Policies and SOPs at all times
+            * Delivers corrective advice and guidance to students improving 
+			  their fundamentals and marksmanship.
+            * Observes students during live firing to ensure safety procedures 
+			  are followed.
