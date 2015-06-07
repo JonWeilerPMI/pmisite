@@ -1,20 +1,12 @@
 ---
-layout: page-fullwidth
-title:  "Jon Weiler"
-subheadline:  "CEO of Professional Marksmen Inc."
-teaser: "Jon Weiler is a former U.S. Army Sniper over ten years active experience working with precision long range cartridges..."
-categories:
-    - Instructors
-tags:
-    - firearms instruction
-    - precision shooting
-    - jon weiler
-image:
-   thumb: "unsplash_brooklyn-bridge_thumb.jpg"
+layout: page
+title: "About"
+subheadline: "Train for Everyday"
+show_meta: false
+teaser: "Lifestyle is the key phrase when it comes to training for everyday.  When we adopt the firearm tool into our lives, things change for us.  We see things differently... "
+permalink: "/jon_weiler/"
 header:
-    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
-    caption: Follow Jon Weiler on Instagram!
-    caption_url: https://instagram.com/jon_weiler/
+    image_fullwidth: "header_drop.jpg"
 ---
 ...and defensive firearm engagements. In 2003, Weiler took part in the invasion of Iraq with the 82nd Airborne Division as part of the 2nd Brigade Combat Team, 3/325 Airborne Infantry Regiment.  As part of the invading force, Weiler and his team of Scout Snipers moved throughout the Southern part of Iraq, leading into the urban environment of Baghdad. Weiler's unit occupied the SW Sector of Baghdad from 2003-2004, where he gained valuable operating experience in this environment, working in small teams for extended periods of time.  
 
