@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "About"
-subheadline: "Train for Everyday"
+title: "Jon Weiler"
+subheadline: "CEO - Professional Marksmen Inc."
 show_meta: false
-teaser: "Lifestyle is the key phrase when it comes to training for everyday.  When we adopt the firearm tool into our lives, things change for us.  We see things differently... "
+teaser: "Jon Weiler is a former U.S. Army Sniper over ten years active experience working with precision long range cartridges ... "
 permalink: "/jon_weiler/"
 header:
     image_fullwidth: "header_drop.jpg"

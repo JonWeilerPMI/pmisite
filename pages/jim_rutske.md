@@ -1,20 +1,12 @@
 ---
 layout: page
-title:  "Jim Rutske"
-subheadline:  "COO of Professional Marksmen Inc."
-teaser: "Jim Rutske is a retired U.S. Air Force Explosive Ordnance Disposal EOD (Bomb Squad) Technician with..."
-categories:
-    - design
-tags:
-    - design
-    - background color
-    - header
-image:
-   thumb: "unsplash_brooklyn-bridge_thumb.jpg"
+title: "Jim Rutske"
+subheadline: "COO - Professional Marksmen Inc."
+show_meta: false
+teaser: "Jim Rutske is a retired U.S. Air Force Explosive Ordnance Disposal EOD (Bomb Squad) Technician with ... "
+permalink: "/jim_rutske/"
 header:
-    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
-    caption: Follow Jon Weiler on Instagram!
-    caption_url: https://instagram.com/jon_weiler/
+    image_fullwidth: "header_drop.jpg"
 ---
 
 ...twenty years of active duty experience. Deploying to every major conflict since Desert Storm he has accumulated a depth of tactical field experience and combat capability from dismounted team maneuvers to armored route clearance patrols. His final combat deployment was to Baghdad in 2007-2008 under the Army’s Task Force Troy Counter-Improvised Explosive Device unit where his actions on the battlefield earned him the Army Bronze Star. 

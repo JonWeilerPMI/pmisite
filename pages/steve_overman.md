@@ -1,20 +1,12 @@
 ---
 layout: page
-title:  "Steve Overman"
-subheadline:  "Defensive Lead Instructor"
-teaser: "Steve is a retired Albuquerque, NM Police Officer with 20yrs of service.  During his career with the Albuquerque Police Department (APD)..."
-categories:
-    - design
-tags:
-    - design
-    - background color
-    - header
-image:
-   thumb: "unsplash_brooklyn-bridge_thumb.jpg"
+title: "Steve Overman"
+subheadline: "PMI Defensive Lead Instructor"
+show_meta: false
+teaser: "Steve is a retired Albuquerque, NM Police Officer with 20yrs of service.  During his career with the Albuquerque Police Department (APD)... "
+permalink: "/steve_overman/"
 header:
-    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
-    caption: Follow Jon Weiler on Instagram!
-    caption_url: https://instagram.com/jon_weiler/
+    image_fullwidth: "header_drop.jpg"
 ---
 
 ...he worked as a Uniformed Patrol Officer, a Criminal Investigative Detective and a Special Investigations Undercover Detective.  Steve also served as an APD Academy instructor for four years, training veteran APD officers & basic APD cadets in General Law Enforcement subjects, Firearms, Defensive Tactics, and several other Police disciplines.  He also served as an adjunct Firearms Instructor for the New Mexico Law Enforcement Academy, Santa Fe, NM. 
