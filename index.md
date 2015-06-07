@@ -9,10 +9,10 @@ title: "Train for Everyday"
 header:
    image_fullwidth: "pmiheader.jpg"
 widget-1:
-    title: "Train for Everyday"
-    url: 'http://jonweilerpmi.github.io/pmisite/blog/'
+    title: "A Defensive Lifestyle"
+    url: 'http://jonweilerpmi.github.io/pmisite/design/Train-for-Everyday/'
     text: 'Professional Marksmen Inc. focuses on a training methodology that revolves around our Everyday and how we realistically integrate the Defensive Tool within it.'
-    image: trainforeveryday.jpg
+    video: '<a href="#" data-reveal-id="videoModal2"><img src="http://jonweilerpmi.github.io/pmisite/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
 widget-2:
     title: "Shooting on the Edge of Science"
     url: 'http://jonweilerpmi.github.io/pmisite/info/'
@@ -29,5 +29,11 @@ widget-3:
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/U-rqvPWDUvU" frameborder="0" allowfullscreen></iframe>  </div>
+  <a class="close-reveal-modal">&#215;</a>
+</div>
+
+<div id="videoModal2" class="reveal-modal large" data-reveal="">
+  <div class="flex-video widescreen vimeo" style="display: block;">
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/gx_WrASXlMg" frameborder="0" allowfullscreen></iframe>  </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
