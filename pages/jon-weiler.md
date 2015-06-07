@@ -26,13 +26,13 @@ Weiler founded Professional Marksmen Inc. in 2007 and currently instructs for th
 
 In 2011, Professional Marksmen Inc. was contracted by the NRA Whittington Center to assist in the creation of their training division: Whittington U.  Courses provided for the Whittington U range from the Defensive Academy, focusing on the defensive implementation of the firearm platform and the Precision Academy, focusing on the technical aspect of precision long range shooting.  Nestled in the foothills of the Rocky Mountain at the beautiful NRA Whittington Center in NE New Mexico, the Whittington U has grown into one of the nation's premiere firearm instruction facilities.
 
-~~~
+
 ## Survival Trial
 
 In 2011, Weiler pioneered a new endurance competition that combines realistic shooting stages into an adventure race format, called the Survival Trial.  Survival Trial is a completely new concept, blurring the lines between both endurance adventure racing and multi-line shooting competitions. Competitors register as Solo or in Two Person Teams, having 24 or 48 hours to negotiate over 100 square miles of harsh mountainous and high desert terrain.  Every Survival Trial is different, with a distinct theme to each. 
 
 Survival Trial utilizes real world, survival-based shooting scenarios, physical obstacles and mental challenges to provide Competitors with the Ultimate Test.  Survival Trial continues to grow and evolve from year to year, seeing a large ensemble of dynamic individuals.
-~~~
+
 
 ## Warrior Rendezvous
 
