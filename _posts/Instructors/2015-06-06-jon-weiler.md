@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  "Jon Weiler"
 subheadline:  "CEO of Professional Marksmen Inc."
 teaser: "Feeling Responsive allows you to use all kinds of headers. This example shows a header with a <em>full-width-image</em>."
