@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Jim Rutske"
-subheadline: "COO - Professional Marksmen Inc."
+subheadline: "Chief of Operations - Professional Marksmen Inc."
 show_meta: false
 teaser: "Jim Rutske is a retired U.S. Air Force Explosive Ordnance Disposal EOD (Bomb Squad) Technician with ... "
 permalink: "/jim_rutske/"

@@ -7,7 +7,7 @@
 layout: frontpage
 title: "Train for Everyday"
 header:
-   image_fullwidth: "header_unsplash_12.jpg"
+   image_fullwidth: "pmiheader.jpg"
 widget-1:
     title: "Train for Everyday"
     url: 'http://jonweilerpmi.github.io/pmisite/blog/'
