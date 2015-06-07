@@ -1,14 +1,14 @@
 ---
-layout: post
+layout: page
 title:  "Jon Weiler"
 subheadline:  "CEO of Professional Marksmen Inc."
-teaser: "Feeling Responsive allows you to use all kinds of headers. This example shows a header with a <em>full-width-image</em>."
+teaser: "Jon Weiler is a former U.S. Army Sniper over ten years active experience working with precision long range cartridges..."
 categories:
-    - design
+    - Instructors
 tags:
-    - design
-    - background color
-    - header
+    - firearms instruction
+    - precision shooting
+    - jon weiler
 image:
    thumb: "unsplash_brooklyn-bridge_thumb.jpg"
 header:
@@ -16,7 +16,7 @@ header:
     caption: Follow Jon Weiler on Instagram!
     caption_url: https://instagram.com/jon_weiler/
 ---
-Jon Weiler is a former U.S. Army Sniper over ten years active experience working with precision long range cartridges and defensive firearm engagements. In 2003, Weiler took part in the invasion of Iraq with the 82nd Airborne Division as part of the 2nd Brigade Combat Team, 3/325 Airborne Infantry Regiment.  As part of the invading force, Weiler and his team of Scout Snipers moved throughout the Southern part of Iraq, leading into the urban environment of Baghdad. Weiler's unit occupied the SW Sector of Baghdad from 2003-2004, where he gained valuable operating experience in this environment, working in small teams for extended periods of time.  
+...and defensive firearm engagements. In 2003, Weiler took part in the invasion of Iraq with the 82nd Airborne Division as part of the 2nd Brigade Combat Team, 3/325 Airborne Infantry Regiment.  As part of the invading force, Weiler and his team of Scout Snipers moved throughout the Southern part of Iraq, leading into the urban environment of Baghdad. Weiler's unit occupied the SW Sector of Baghdad from 2003-2004, where he gained valuable operating experience in this environment, working in small teams for extended periods of time.  
 
 Upon his Honorable Discharge from the Army in 2004, Weiler began his international instructor career with Barrett Firearms Manufacturing Inc., who produce the M82A1/M107 .50 BMG, Semi-Automatic Rifle that is utilized by the United States military and many allied countries worldwide. During his 3.5 years with the company, Jon developed comprehensive long range shooting and firearm maintenance courses for the Barrett Rifle line for military, law enforcement and recreational shooters.  Weiler has worked with military and law enforcement personnel from the United States, Mexico, Taiwan, Singapore, Greece, The Netherlands, and Israel.
 
