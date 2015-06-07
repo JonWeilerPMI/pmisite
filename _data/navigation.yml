@@ -18,11 +18,12 @@
     url: "https://store.professionalmarksmen.com/index.php?l=product_list&c=2"
   - title: "Defensive Shotgun"
     url: "https://store.professionalmarksmen.com/index.php?l=product_list&c=3"
-  
+  - title: "Whittington U"
+    url: "http://www.nrawc.org/training"
 
 
 - title: "PMI Instructors"
-  url: "/headers/"
+  url: "/instructors/"
   side: left
   dropdown:
   - title: "Jon Weiler"
@@ -34,15 +35,14 @@
 
 
 - title: Employment
-  url: "/documentation/"
+  url: "/employment/"
   side: left
   dropdown:
   - title: "Defensive Lead Instructor"
-    url: "/documentation/"
+    url: "/defensive_lead/"
   - title: "Precision Lead Instructor"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+    url: "/precision_lead/"
+
 
 - title: Articles
   url: "/blog/"
