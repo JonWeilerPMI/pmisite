@@ -10,14 +10,14 @@ header:
    image_fullwidth: "pmiheader.jpg"
 widget-1:
     title: "Register for PMI Courses"
-    url: 'https://store.professionalmarksmen.com'
+    url: 'http://jonweilerpmi.github.io/pmisite/pmi_courses/'
     text: ''
     image: defpist.jpg
 widget-2:
     title: "Shooting on the Edge of Science"
-    url: 'http://jonweilerpmi.github.io/pmisite/pmi_courses/'
+    url: 'http://nrawc.goemerchant-stores.com/Precision-Academy_c_35.html'
     text: 'The Whittington U Precision Academy - School of Extreme Long Range: Shooting on the Edge of Science.  Three seperate ranges to facilitate a progressive curriculum, reactive steel targets and 2.07 Mile capabilities.'
-    video: '<a href="#" data-reveal-id="videoModal"><img src="http://jonweilerpmi.github.io/pmisite/images/start-video-feeling-responsive-302x182" width="302" height="182" alt=""></a>'
+    video: '<a href="#" data-reveal-id="videoModal"><img src="http://jonweilerpmi.github.io/pmisite/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
 widget-3:
     title: "Train at your Local Facilities"
     url: 'http://jonweilerpmi.github.io/pmisite/contact/'
