@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "About"
 subheadline: "Train for Everyday"
 show_meta: false
@@ -23,7 +23,9 @@ Our lives are dangerous and they always have been.  Our world around us does not
 * Confidence in ourselves and our equipment is a direct result of training
 * An armed citizen is a responsible citizen
 
+## Instructional Approach
 
+Our Lead Instructors are all combat veterans with direct experience in material presented.
 
 ## Our Lives...
 

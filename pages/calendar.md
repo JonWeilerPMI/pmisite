@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "PMI Training Calendar"
 subheadline: "Register for an upcoming course!"
 show_meta: false
