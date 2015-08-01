@@ -23,6 +23,22 @@ widget-3:
     url: '/contact/'
     text: 'We want to come to you!  Contact us for more information on our Mobile Training Courses and hosting a course at your local range!'
     image: github-303x182.jpg
+widget-4:
+    title: "Register for PMI Courses"
+    url: '/pmi_courses/'
+    text: ''
+    image: defpist.jpg
+widget-5:
+    title: "Shooting on the Edge of Science"
+    url: 'http://nrawc.goemerchant-stores.com/Precision-Academy_c_35.html'
+    text: 'The Whittington U Precision Academy - School of Extreme Long Range: Shooting on the Edge of Science.  Three seperate ranges to facilitate a progressive curriculum, reactive steel targets and 2.07 Mile capabilities.'
+    video: '<a href="#" data-reveal-id="videoModal"><img src="http://jonweilerpmi.github.io/pmisite/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
+widget-6:
+    title: "Train at your Local Facilities"
+    url: '/contact/'
+    text: 'We want to come to you!  Contact us for more information on our Mobile Training Courses and hosting a course at your local range!'
+    image: github-303x182.jpg
+	
 ---
 
 
