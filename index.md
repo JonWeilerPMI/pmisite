@@ -9,34 +9,34 @@ title: "Professional Marksmen Inc."
 header:
    image_fullwidth: "pmiheader.jpg"
 widget-1:
-    title: "Register for PMI Courses"
-    url: '/pmi_courses/'
-    text: ''
-    image: defpist.jpg
+    title: "The PMI Method - Effective Firearm Instruction based around Everyday Life."
+    url: '/info/'
+    text: 'The PMI Method is designed to teach to any student who attends our course, regardless of any previous firearm experience.  Our Instructors are all Combat Veterans who have directly applied the techniques taught in our Defensive Courses, in some shape or form.  We teach from experience, but with the intent that every student will retain the information and reach the goals of each specified course.'
+    image: pmimethod.jpg
 widget-2:
-    title: "Shooting on the Edge of Science"
+    title: "Whittington U: Shooting on the Edge of Science"
     url: 'http://nrawc.goemerchant-stores.com/Precision-Academy_c_35.html'
     text: 'The Whittington U Precision Academy - School of Extreme Long Range: Shooting on the Edge of Science.  Three seperate ranges to facilitate a progressive curriculum, reactive steel targets and 2.07 Mile capabilities.'
     video: '<a href="#" data-reveal-id="videoModal"><img src="http://jonweilerpmi.github.io/pmisite/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
 widget-3:
-    title: "Train at your Local Facilities"
-    url: '/contact/'
-    text: 'We want to come to you!  Contact us for more information on our Mobile Training Courses and hosting a course at your local range!'
-    image: github-303x182.jpg
+    title: "PMI Training Calendar"
+    url: '/calendar/'
+    text: '2015-2016 PMI and Whittington U Courses are now online.  Click above for upcoming Training Dates and locations! '
+    image: calendar.jpg
 
 ---
 <div class="row">
   <div class="large-3 columns">
-      <img src="http://professionalmarksmen.com/images/defpist.jpg">
+      <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=1" target="_blank" ><img src="http://professionalmarksmen.com/images/defpist.jpg">
   </div>
   <div class="large-3 columns">
-      <img src="http://placehold.it/220x141/e05a10/e1e75e&amp;text=Width+220+Pixel">
+      <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=9" target="_blank" ><img src="http://professionalmarksmen.com/images/defrif.jpg">
   </div>
   <div class="large-3 columns">
-      <img src="http://placehold.it/220x141/fabb00/771e1e&amp;text=Width+220+Pixel">
+      <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=2" target="_blank" ><img src="http://professionalmarksmen.com/images/defshot.jpg">
   </div>
   <div class="large-3 columns">
-      <img src="http://placehold.it/220x141/00792c/acca57&amp;text=Width+220+Pixel">
+      <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=3" target="_blank" ><img src="http://professionalmarksmen.com/images/fundfound.jpg">
   </div>
 </div>
 
