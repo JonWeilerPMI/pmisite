@@ -23,23 +23,22 @@ widget-3:
     url: '/contact/'
     text: 'We want to come to you!  Contact us for more information on our Mobile Training Courses and hosting a course at your local range!'
     image: github-303x182.jpg
-widget-4:
-    title: "Register for PMI Courses"
-    url: '/pmi_courses/'
-    text: ''
-    image: defpist.jpg
-widget-5:
-    title: "Register for PMI Courses"
-    url: '/pmi_courses/'
-    text: ''
-    image: defpist.jpg
-widget-6:
-    title: "Register for PMI Courses"
-    url: '/pmi_courses/'
-    text: ''
-    image: defpist.jpg
----
 
+---
+<div class="row">
+  <div class="large-3 columns">
+      <img src="http://professionalmarksmen.com/images/defpist.jpg">
+  </div>
+  <div class="large-3 columns">
+      <img src="http://placehold.it/220x141/e05a10/e1e75e&amp;text=Width+220+Pixel">
+  </div>
+  <div class="large-3 columns">
+      <img src="http://placehold.it/220x141/fabb00/771e1e&amp;text=Width+220+Pixel">
+  </div>
+  <div class="large-3 columns">
+      <img src="http://placehold.it/220x141/00792c/acca57&amp;text=Width+220+Pixel">
+  </div>
+</div>
 
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
@@ -54,17 +53,3 @@ widget-6:
   <a class="close-reveal-modal">&#215;</a>
 </div>
 
-<div class="row">
-  <div class="large-3 columns">
-      <img src="http://placehold.it/220x141/6b6351/e1dcd7&amp;text=Width+220+Pixel">
-  </div>
-  <div class="large-3 columns">
-      <img src="http://placehold.it/220x141/e05a10/e1e75e&amp;text=Width+220+Pixel">
-  </div>
-  <div class="large-3 columns">
-      <img src="http://placehold.it/220x141/fabb00/771e1e&amp;text=Width+220+Pixel">
-  </div>
-  <div class="large-3 columns">
-      <img src="http://placehold.it/220x141/00792c/acca57&amp;text=Width+220+Pixel">
-  </div>
-</div>
