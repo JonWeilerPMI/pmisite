@@ -25,20 +25,7 @@ widget-3:
     image: calendar.jpg
 
 ---
-<center><h1>PMI Courses:</h1></center>
 
-<div class="row">
-  <div class="large-3 columns">
-      <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=1" target="_blank" ><img src="http://professionalmarksmen.com/images/defpist.jpg">
-  </div>
-  <div class="large-3 columns">
-      <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=9" target="_blank" ><img src="http://professionalmarksmen.com/images/defrif.jpg">
-  </div>
-  <div class="large-3 columns">
-      <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=2" target="_blank" ><img src="http://professionalmarksmen.com/images/defshot.jpg">
-  </div>
- 
-</div>
 
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
