@@ -5,19 +5,19 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-title: "Train for Everyday"
+title: "Professional Marksmen Inc."
 header:
    image_fullwidth: "pmiheader.jpg"
 widget-1:
-    title: "A Defensive Lifestyle"
-    url: 'http://jonweilerpmi.github.io/pmisite/design/Train-for-Everyday/'
+    title: "Register for PMI Courses"
+    url: 'store.professionalmarksmen.com'
     text: 'Professional Marksmen Inc. focuses on a training methodology that revolves around our Everyday and how we realistically integrate the Defensive Tool within it.'
-    video: '<a href="#" data-reveal-id="videoModal2"><img src="http://jonweilerpmi.github.io/pmisite/images/unsplash_9-302x1822.jpg" width="302" height="182" alt=""></a>'
+    image: defpist.jpg
 widget-2:
     title: "Shooting on the Edge of Science"
     url: 'http://jonweilerpmi.github.io/pmisite/info/'
     text: 'The Whittington U Precision Academy - School of Extreme Long Range: Shooting on the Edge of Science.  Three seperate ranges to facilitate a progressive curriculum, reactive steel targets and 2.07 Mile capabilities.'
-    video: '<a href="#" data-reveal-id="videoModal"><img src="http://jonweilerpmi.github.io/pmisite/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
+    video: '<a href="#" data-reveal-id="videoModal"><img src="http://jonweilerpmi.github.io/pmisite/images/promo_hb_1.jpg" width="302" height="182" alt=""></a>'
 widget-3:
     title: "Train at your Local Facilities"
     url: 'http://jonweilerpmi.github.io/pmisite/contact/'
