@@ -41,6 +41,7 @@ widget-6:
 ---
 
 
+
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/U-rqvPWDUvU" frameborder="0" allowfullscreen></iframe>  </div>
@@ -51,4 +52,19 @@ widget-6:
   <div class="flex-video widescreen vimeo" style="display: block;">
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/gx_WrASXlMg" frameborder="0" allowfullscreen></iframe>  </div>
   <a class="close-reveal-modal">&#215;</a>
+</div>
+
+<div class="row">
+  <div class="large-3 columns">
+      <img src="http://placehold.it/220x141/6b6351/e1dcd7&amp;text=Width+220+Pixel">
+  </div>
+  <div class="large-3 columns">
+      <img src="http://placehold.it/220x141/e05a10/e1e75e&amp;text=Width+220+Pixel">
+  </div>
+  <div class="large-3 columns">
+      <img src="http://placehold.it/220x141/fabb00/771e1e&amp;text=Width+220+Pixel">
+  </div>
+  <div class="large-3 columns">
+      <img src="http://placehold.it/220x141/00792c/acca57&amp;text=Width+220+Pixel">
+  </div>
 </div>
