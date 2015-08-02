@@ -32,3 +32,19 @@ Our Lead Instructors are all combat veterans with direct experience in material 
 Our lives are filled with uncertainty but this does not mean they are filled with despair.  We cannot control Time; we can only control what we do with it.  We train for the worst case situations but live our lives the best way we can.  The PMI Method will help you in an understanding of this.  We focus on a holstic approach to ourselves.  We first must understand ourselves, our capabilities and our limitations.  The become our perameters.  Anyone is capable of anything; it only a matter of belief.  
 
 We want to help you be the best person that you can be.
+
+<div class="row">
+  <div class="large-3 columns">
+      <img src="defpist">
+  </div>
+  <div class="large-3 columns">
+      <img src="defrif">
+  </div>
+  <div class="large-3 columns">
+      <img src="defshot">
+  </div>
+  <div class="large-3 columns">
+      <img src="fundfound">
+  </div>
+</div>
+</div><!-- /.hide-for-small -->
