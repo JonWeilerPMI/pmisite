@@ -27,6 +27,6 @@ header:
       <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=9" target="_blank"><img src="fundfound.jpg">
   </div>
 </div>
-</div><!-- /.hide-for-small -->
+
 
 
