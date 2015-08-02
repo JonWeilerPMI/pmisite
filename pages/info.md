@@ -33,18 +33,19 @@ Our lives are filled with uncertainty but this does not mean they are filled wit
 
 We want to help you be the best person that you can be.
 
+
 <div class="row">
   <div class="large-3 columns">
-      <img src="defpist">
+      <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=1" target="_blank"><img src="defpist.jpg">
   </div>
   <div class="large-3 columns">
-      <img src="defrif">
+      <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=2" target="_blank"><img src="defrif.jpg">
   </div>
   <div class="large-3 columns">
-      <img src="defshot">
+      <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=3" target="_blank"><img src="defshot.jpg">
   </div>
   <div class="large-3 columns">
-      <img src="fundfound">
+      <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=9" target="_blank"><img src="fundfound.jpg">
   </div>
 </div>
 </div><!-- /.hide-for-small -->
