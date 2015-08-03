@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "PMI Courses"
 subheadline: "Consistent-Efficient-Safe"
 show_meta: false
-teaser: "Professional Marksmen Inc. Course Catalog: "
+teaser: "Professional Marksmen Inc. Course Catalog: Defensive Pistol 2"
 permalink: "/defensive_pistol2/"
 header:
     image_fullwidth: "header_drop2.jpg"

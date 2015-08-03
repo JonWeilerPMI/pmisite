@@ -34,13 +34,3 @@ Our lives are filled with uncertainty but this does not mean they are filled wit
 We want to help you be the best person that you can be.
 
 
-<div class="row">
-  <div class="large-3 columns">
-      <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=1" target="_blank"><img src="http://professionalmarksmen.com/images/defpist2.jpg">
-  </div>
-  <div class="large-3 columns">
-      <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=2" target="_blank"><img src="http://professionalmarksmen.com/images/defrif2.jpg">
-  </div>
-  <div class="large-3 columns">
-      <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=3" target="_blank"><img src="http://professionalmarksmen.com/images/defshot2.jpg">
-  </div>
