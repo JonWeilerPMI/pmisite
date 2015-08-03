@@ -1,17 +1,16 @@
 ---
 layout: page-fullwidth
-title: "PMI Training Calendar"
-subheadline: "Register for an upcoming course!"
+title: "Whittington U Training Calendar"
+subheadline: "Register for an upcoming course at the Whittington U!"
 show_meta: false
 teaser: "Upcoming 2015-2016 Training Dates  ... "
-permalink: "/calendar/"
+permalink: "/calendar_whittington_u/"
 header:
     image_fullwidth: ""
 ---
 
 
-<iframe src="https://www.google.com/calendar/embed?src=professionalmarksmen.com_6afp5d3kqhnq78d2hj7skqumt8%40group.calendar.google.com&ctz=America/Chicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
+<iframe src="https://www.google.com/calendar/embed?src=professionalmarksmen.com_osm9ol2v5qsdo5up7ehqi3kmeg%40group.calendar.google.com&ctz=America/Chicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 <div class="row">
   <div class="large-3 columns">

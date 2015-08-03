@@ -5,6 +5,10 @@
 - title: The PMI Method
   url: "/info/"
   side: left
+  
+- title:  Calendar
+  url: "/calendar/"
+  side: left
 
 - title: "Courses and Locations"
   url: "https://store.professionalmarksmen.com"
@@ -32,6 +36,10 @@
     url: "/jim_rutske/"
   - title: "Steve Overman"
     url: "/steve_overman/"
+  - title: "Adam Wilson"
+    url: "/adam_wilson/"
+  - title: "Alexandra Wilson"
+    url: "/alexandra_wilson/"
 
 
 - title: Employment
