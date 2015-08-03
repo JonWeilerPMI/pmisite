@@ -15,16 +15,16 @@ header:
 
 <div class="row">
   <div class="large-3 columns">
-      <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=1" target="_blank"><img src="http://professionalmarksmen.com/images/defpist.jpg">
+      <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=1" target="_blank"><img src="http://professionalmarksmen.com/images/defpist2.jpg">
   </div>
   <div class="large-3 columns">
-      <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=2" target="_blank"><img src="http://professionalmarksmen.com/images/defrif.jpg">
+      <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=2" target="_blank"><img src="http://professionalmarksmen.com/images/defrif2.jpg">
   </div>
   <div class="large-3 columns">
-      <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=3" target="_blank"><img src="http://professionalmarksmen.com/images/defshot.jpg">
+      <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=3" target="_blank"><img src="http://professionalmarksmen.com/images/defshot2.jpg">
   </div>
   <div class="large-3 columns">
-      <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=9" target="_blank"><img src="http://professionalmarksmen.com/images/fundfound.jpg">
+      <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=9" target="_blank"><img src="http://professionalmarksmen.com/images/fundfound2.jpg">
   </div>
 </div>
 
