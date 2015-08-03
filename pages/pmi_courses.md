@@ -12,7 +12,7 @@ header:
 
 <div class="row">
     <div class="medium-4 columns t30">
-    <a href="http://professionalmarksmen.com/defensive_pistol/" target="_blank"><img src="{{ site.url }}/images/unsplash_1.jpg" alt="">
+      [<img src="{{ site.url }}/images/unsplash_1.jpg" alt="">][1]
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
@@ -43,7 +43,7 @@ header:
 
 
 
- [1]: http://foundation.zurb.com/docs/components/grid.html
+ [1]: "http://professionalmarksmen.com/defensive_pistol/
  [2]: #
  [3]: #
  [4]: #
