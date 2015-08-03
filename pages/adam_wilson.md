@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Adam Wilson"
-subheadline: "CEO - Professional Marksmen Inc."
+subheadline: "PMI Precision Lead Instructor"
 show_meta: false
 teaser: "Adam Wilson was born in San Antonio TX and spent 13 years on active ... "
 permalink: "/adam_wilson/"
