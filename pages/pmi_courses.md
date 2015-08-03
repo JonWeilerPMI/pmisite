@@ -12,7 +12,7 @@ header:
 
 <div class="row">
     <div class="medium-4 columns t30">
-      [<img src="{{ site.url }}/images/unsplash_1.jpg" alt="">][1]
+      <img src="{{ site.url }}/images/unsplash_1.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
