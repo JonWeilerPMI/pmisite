@@ -25,6 +25,8 @@ widget-3:
     image: calendar.jpg
 
 ---
+<center>_________________________________________________________________</center>
+
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
@@ -36,7 +38,7 @@ widget-3:
 <div id="mc_embed_signup">
 <form action="//professionalmarksmen.us2.list-manage.com/subscribe/post?u=c2668a4722cb45bb6bf546f65&amp;id=c179792770" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe to our mailing list</h2>
+	<h2>Subscribe to the PMI Newsletter for articles, course offerings and training discounts!</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>

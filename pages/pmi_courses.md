@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "PMI Courses"
 subheadline: "Register for an upcoming course!"
 show_meta: false
@@ -19,14 +19,27 @@ header:
 
 <p><h1>Courses Offered:</h1> </p>
 
-<a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=9"  target="_blank"><img src="https://store.professionalmarksmen.com/themes/leisure_responsive/images/fundfound.jpg" alt="PMI Fundamental Foundations Course" style="width:350px;height:350px;">
+<div class="row">
+  <div class="large-3 columns">
+      <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=1" target="_blank"><img src="http://professionalmarksmen.com/images/defpist.jpg">
+  </div>
+  <div class="large-3 columns">
+      <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=2" target="_blank"><img src="http://professionalmarksmen.com/images/defrif.jpg">
+  </div>
+  <div class="large-3 columns">
+      <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=3" target="_blank"><img src="http://professionalmarksmen.com/images/defshot.jpg">
+  </div>
+  <div class="large-3 columns">
+      <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=9" target="_blank"><img src="http://professionalmarksmen.com/images/fundfound.jpg">
+  </div>
+</div>
 
-<a href="https://store.professionalmarksmen.com/index.php?l=product_list&c=1"  target="_blank"><img src="https://store.professionalmarksmen.com/themes/leisure_responsive/images/defpist.jpg" alt="PMI Defensive Pistol" style="width:350px;height:350px;">
+<center>_______________________________________________________________</center>
 
-<a href="https://store.professionalmarksmen.com/index.php?l=product_list&c=2"  target="_blank"><img src="https://store.professionalmarksmen.com/themes/leisure_responsive/images/defrif.jpg" alt="PMI Defensive Rifle" style="width:350px;height:350px;">
+<h1>Training Locations:</h1>
 
-<a href="https://store.professionalmarksmen.com/index.php?l=product_list&c=2"  target="_blank"><img src="https://store.professionalmarksmen.com/themes/leisure_responsive/images/defshot.jpg" alt="PMI Defensive Shotgun" style="width:350px;height:350px;">
-<h1>Del Norte Gun Club Weather:</h1>
+<h2>Del Norte Gun Club - Albuquerque, NM</h2>
+<a target="_blank" href='http://www.dngcnm.com/' title='Click here for DNGC Website'><img src='http://professionalmarksmen.com/images/dngc.png" border="0" /></a>
 
 <a target="_blank" href='http://www.weatherreporttoday.com/Albuquerque/' title='Albuquerque, NM 7-Day Weather Forecast'><img src='http://www.weatherreporttoday.com/images/WeatherWidget.aspx?City=Albuquerque' alt="Albuquerque, NM 7-Day Weather Forecast" border="0" /></a>
 <h1>Map to Del Norte Gun Club:</h1>
