@@ -6,7 +6,7 @@ show_meta: false
 teaser: "Alexandra Wilson’s shooting career began on the Missouri State University pistol team in 2004 as a freshman... "
 permalink: "/alexandra_wilson/"
 header:
-    image_fullwidth: ""
+    image_fullwidth: "alexandrawilson.jpg"
 ---
 Despite her inexperience she enjoyed the challenges competing presented and quickly excelled in the sport.
 

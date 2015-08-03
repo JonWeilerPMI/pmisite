@@ -3,16 +3,16 @@ layout: page-fullwidth
 title: "PMI Courses"
 subheadline: "Register for an upcoming course!"
 show_meta: false
-teaser: "Professional Marksmen Inc. is currently   ... "
+teaser: "Professional Marksmen Inc. Course Catalog: "
 permalink: "/pmi_courses/"
 header:
-    image_fullwidth: ""
+    image_fullwidth: "pmiheader.jpg"
 ---
 
 
 <div class="row">
     <div class="medium-4 columns t30">
-    <img src="{{ site.url }}/images/unsplash_1.jpg" alt="">
+    <a href="http://professionalmarksmen.com/defensive_pistol/" target="_blank"><img src="{{ site.url }}/images/unsplash_1.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
