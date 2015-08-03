@@ -22,7 +22,7 @@ There are no previous requirements necessary to take PMI Defensive Pistol I Cour
 
 #PMI Defensive Pistol 2:
 
-<a href="http://professionalmarksmen.com/defensive_pistol1" target="_blank"><img src="http://professionalmarksmen.com/images/defpist2.jpg" alt="PMI Defensive Pistol" style="width:350px;height:350px;">
+<a href="http://professionalmarksmen.com/defensive_pistol2" target="_blank"><img src="http://professionalmarksmen.com/images/defpist2.jpg" alt="PMI Defensive Pistol" style="width:350px;height:350px;">
 
 
 [PMI’s Defensive Pistol 2 Course][2] is the Intermediate to Advanced level Defensive Sidearm instruction that focuses on the cognitive disconnect that occurs when the mind is under emotional duress.
