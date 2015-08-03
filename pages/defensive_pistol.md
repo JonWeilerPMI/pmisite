@@ -4,9 +4,9 @@ title: "PMI Courses"
 subheadline: "Register for an upcoming course!"
 show_meta: false
 teaser: "Professional Marksmen Inc. Course Catalog: "
-permalink: "/pmi_courses/"
+permalink: "/defensive_pistol/"
 header:
-    image_fullwidth: "pmiheader.jpg"
+    image_fullwidth: "defpist.jpg"
 ---
 
 
