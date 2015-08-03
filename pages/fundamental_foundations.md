@@ -6,13 +6,13 @@ show_meta: false
 teaser: "Professional Marksmen Inc. Course Catalog: Fundamental Foundations"
 permalink: "/fundamental_foundations/"
 header:
-    image_fullwidth: "header_drop2.jpg"
+    image_fullwidth: "header_drop5.jpg"
 ---
 
 
 #PMI Fundamental Foundation: 
 
-<a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=9" target="_blank"><img src="http://professionalmarksmen.com/images/defpist1.jpg" alt="PMI Defensive Pistol 1" style="width:350px;height:350px;">
+<a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=9" target="_blank"><img src="http://professionalmarksmen.com/images/fundfound1.jpg" alt="PMI Fundamental Foundations" style="width:350px;height:350px;">
 
 <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=9" class="button round">Register</a>
 
