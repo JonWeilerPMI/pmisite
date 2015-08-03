@@ -11,11 +11,11 @@
   side: left
 
 - title: "Courses and Locations"
-  url: "https://store.professionalmarksmen.com"
+  url: "/pmi_courses/"
   side: left
   dropdown:
   - title: "Fundamental Foundations"
-    url: "fundamental_foundations"
+    url: "/fundamental_foundations/"
   - title: "Defensive Pistol"
     url: "/defensive_pistol/"
   - title: "Defensive Rifle"
