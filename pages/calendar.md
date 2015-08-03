@@ -27,4 +27,19 @@ header:
 </div>
 
 
+<div class="show-for-small">
+<div class="row">
+    <div class="small-12 columns">
+<h3>Small Grid</h3>
+        </div><!-- /.small-12.columns -->
+    </div>
+<div class="row">
+  <div class="small-6 columns">
+      <img src="http://placehold.it/470x264/6b6351/e1dcd7&amp;text=2+Columns">
+  </div>
+  <div class="small-6 columns">
+      <img src="http://placehold.it/470x264/e05a10/e1e75e&amp;text=2+Columns">
+  </div>
+</div>
+</div>
 
