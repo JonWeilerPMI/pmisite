@@ -14,6 +14,8 @@ header:
 
 <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=5" target="_blank"><img src="http://professionalmarksmen.com/images/defpist3.jpg" alt="PMI Defensive Pistol 3" style="width:350px;height:350px;">
 
+<a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=5" class="button round">Register</a>
+
 
 [PMI’s Defensive Pistol III Course][3] is the Advanced Level Defensive Sidearm instruction that focuses on lowlight engagements, while employing a strong fundamental interaction with the firearm along with Principles of Cover. Support side engagements with the non-dominant hand are also a large portion of this course, with scenario based engagements rounding out the Defensive Pistol Series.
 

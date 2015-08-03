@@ -14,6 +14,8 @@ header:
 
 <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=4" target="_blank"><img src="http://professionalmarksmen.com/images/defpist2.jpg" alt="PMI Defensive Pistol" style="width:350px;height:350px;">
 
+<a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=4" class="button round">Register</a>
+
 
 [PMI’s Defensive Pistol 2 Course][2] is the Intermediate to Advanced level Defensive Sidearm instruction that focuses on the cognitive disconnect that occurs when the mind is under emotional duress.
 

@@ -6,13 +6,16 @@ show_meta: false
 teaser: "Professional Marksmen Inc. Course Catalog: Defensive Rifle 1"
 permalink: "/defensive_rifle1/"
 header:
-    image_fullwidth: "header_drop2.jpg"
+    image_fullwidth: "header_drop3.jpg"
 ---
 
 
 #PMI Defensive Rifle 1:
 
 <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=2" target="_blank"><img src="http://professionalmarksmen.com/images/defrif1.jpg" alt="PMI Defensive Rifle 1" style="width:350px;height:350px;">
+
+<a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=2" class="button round">Register</a>
+
 
 
 [Our Defensive Rifle I][1] is a 3 day training event focusing on a holistic approach to the defensive implementation of the semi-automatic rifle. Defensive Carbine I works to instill a strong fundamental base of understanding in Internal Ballistics, External Ballistics, Terminal Ballistics, Marksmanship Techniques and Optical Adjustments as it relates to the Defensive Implementation of the Semi-Automatic Rifle.

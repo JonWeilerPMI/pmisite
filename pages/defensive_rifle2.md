@@ -6,7 +6,7 @@ show_meta: false
 teaser: "Professional Marksmen Inc. Course Catalog: Defensive Rifle 2"
 permalink: "/defensive_rifle2/"
 header:
-    image_fullwidth: "header_drop2.jpg"
+    image_fullwidth: "header_drop3.jpg"
 ---
 
 
