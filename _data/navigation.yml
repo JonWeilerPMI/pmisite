@@ -15,13 +15,13 @@
   side: left
   dropdown:
   - title: "Fundamental Foundations"
-    url: "https://store.professionalmarksmen.com/index.php?l=product_detail&p=9"
+    url: "fundamental_foundations"
   - title: "Defensive Pistol"
-    url: "https://store.professionalmarksmen.com/index.php?l=product_list&c=1"
+    url: "defensive_pistol"
   - title: "Defensive Rifle"
-    url: "https://store.professionalmarksmen.com/index.php?l=product_list&c=2"
+    url: "defensive_rifle"
   - title: "Defensive Shotgun"
-    url: "https://store.professionalmarksmen.com/index.php?l=product_list&c=3"
+    url: "defensive_shotgun"
   - title: "Whittington U"
     url: "http://www.nrawc.org/training"
 
