@@ -12,13 +12,13 @@ header:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Gju9OHBcgE" frameborder="0" allowfullscreen></iframe>
 
-## Sniper Bulletproof - History Channel
+*Sniper Bulletproof - History Channel*
 
 Upon his Honorable Discharge from the Army in 2004, Weiler began his international instructor career with Barrett Firearms Manufacturing Inc., who produce the M82A1/M107 .50 BMG, Semi-Automatic Rifle that is utilized by the United States military and many allied countries worldwide. During his 3.5 years with the company, Jon developed comprehensive long range shooting and firearm maintenance courses for the Barrett Rifle line for military, law enforcement and recreational shooters.  Weiler has worked with military and law enforcement personnel from the United States, Mexico, Taiwan, Singapore, Greece, The Netherlands, and Israel.
 
 ## Professional Marksmen Inc.
 
-<img src="PMIlogo.png" alt="Survival Trial" style="width:278px;height:141px;">
+<img src="http://professionalmarksmen.com/images/PMIlogo.png" alt="Professional Marksmen Inc." style="width:278px;height:141px;">
 
 Weiler founded Professional Marksmen Inc. in 2007 and currently instructs for the company while managing the corporate growth.  Professional Marksmen Inc. specializes in reality based instruction that is based around Weiler's combat experience, along with his vast technical expertise as it relates to Precision and Extreme Long Range Shooting.  
 
@@ -27,7 +27,7 @@ In 2011, Professional Marksmen Inc. was contracted by the NRA Whittington Center
 
 ## Survival Trial
 
-<a href="http://survivaltrial.com" target="_blank"><img src="promo_hb_2.jpg" alt="Survival Trial" style="width:278px;height:141px;">
+<a href="http://survivaltrial.com" target="_blank"><img src="http://professionalmarksmen.com/images/promo_hb_2.jpg" alt="Survival Trial" style="width:278px;height:141px;">
 
 
 In 2011, Weiler pioneered a new endurance competition that combines realistic shooting stages into an adventure race format, called the Survival Trial.  Survival Trial is a completely new concept, blurring the lines between both endurance adventure racing and multi-line shooting competitions. Competitors register as Solo or in Two Person Teams, having 24 or 48 hours to negotiate over 100 square miles of harsh mountainous and high desert terrain.  Every Survival Trial is different, with a distinct theme to each. 
