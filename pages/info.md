@@ -1,5 +1,6 @@
 ---
-layout: Page/Post Right Sidebar
+layout: page
+sidebar: right
 title: "The PMI Method"
 subheadline: "Consistent - Efficient - Safe"
 show_meta: false
