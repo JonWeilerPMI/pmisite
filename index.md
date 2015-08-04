@@ -70,6 +70,10 @@ widget-3:
   <a class="close-reveal-modal">&#215;</a>
 </div>
 
+
+<center>_________________________________________________________________</center>
+
+
  <table style="width:100%">
   <tr>
     <td><center><a href="https://store.professionalmarksmen.com/index.php?l=product_list&c=5" target="_blank"><img src="http://professionalmarksmen.com/images/slider-1.jpg" alt="PMI Training Sites" style="width:697px;height:435px;"></center></td>
@@ -78,6 +82,5 @@ widget-3:
   <tr>
     <td><center><h2>PMI Training Locations</h2></center></td>
     <td><center><h2>Train with us at the Whittington U!</h2></center></td>
-    
-  </tr>
+      </tr>
 </table> 
