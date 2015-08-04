@@ -19,7 +19,7 @@ In 2013 Alexandra enlisted in the Army National Guard in order to serve her coun
 
 In 2015 Alexandra competed in the National Guard MAC V Regional shooting match.  During the MAC V match Guard Soldiers and Airmen from seven states: Texas, Missouri, Arkansas, Oklahoma, Nebraska, Kansas and Iowa compete for team and individual honors.  Alexandra was selected for one of two available new Military competitor slots on the Texas team, and ultimately won the individual High Novice award.
 
-<img src="http://professionalmarksmen.com/images/alex1.JPG" alt="Alexandra Wilson" style="width:600px;height:400px;">
+<img src="http://professionalmarksmen.com/images/alex2.JPG" alt="Alexandra Wilson" style="width:600px;height:400px;">
 
 
 She completed the 2015 Bataan Memorial Death March in just under 8 hours, coming in 17th out of 88 competitors in her category.  She has always enjoyed working out, challenging herself to remain physically fit and maintain a healthy lifestyle.  Her favorite part of instructing is helping her students accomplish something they have never done before or surpassing previous limits.
