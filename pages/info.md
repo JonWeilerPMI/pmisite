@@ -1,16 +1,20 @@
 ---
-layout: page-fullwidth
-title: "About"
-subheadline: "Train for Everyday"
+layout: Page/Post Right Sidebar
+title: "The PMI Method"
+subheadline: "Consistent - Efficient - Safe"
 show_meta: false
-teaser: "Lifestyle is the key phrase when it comes to training for everyday.  When we adopt the firearm tool into our lives, things change for us.  We see things differently... "
+teaser: "The PMI Method of Firearm Instruction was forged over 15 years of individual Firearm Instruction... "
 permalink: "/info/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
-...almost like the blinders have been taken off.
 
-Our lives are dangerous and they always have been.  Our world around us does not change, but we begin to see differently - we take the responsible steps to protect ourselves and those we love.
+...to a very diverse student base.  We focus on a Consistent, Efficient and Safe presentation of the muzzle in our Defensive Courses and Consistency = Accuracy as our formula for success in our Precision Rifle Courses.  
+
+Our courses are designed around our Everyday Lives.  Our drills are structured to instill a strong holistic understanding of the firearm took, environment around us and ourselves.  All PMI Instructors are Combat Veterans who can speak from experience, although our courses are not aggressive in any shape or form.  We teach from a Violence as a Means of Last Resort in our Defensive Courses and from a very technical approach/data gathering in our Precision Rifle Courses.
+
+All Professional Marksmen Inc. Lead Instructors are Teachers first; this means our goal is the retention of the information presented to every student.  We want you to leave our courses with a high level understanding of the material focus and how to train in between PMI Courses.    
+
 
 ## PMI Method
 
@@ -23,9 +27,6 @@ Our lives are dangerous and they always have been.  Our world around us does not
 * Confidence in ourselves and our equipment is a direct result of training
 * An armed citizen is a responsible citizen
 
-## Instructional Approach
-
-Our Lead Instructors are all combat veterans with direct experience in material presented.
 
 ## Our Lives...
 
