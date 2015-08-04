@@ -17,7 +17,7 @@ Adam is still serving as a member of the U.S. Armed forces and currently assigne
 
 <img src="http://professionalmarksmen.com/images/adam1.jpg" alt="Adam Wilson" style="width:360px;height:360px;">
 
-In 2011 he founded 1MOA Solutions in order to utilize the marksmanship skills and abilities as a instructor to assist others with developing their individual shooting skills. 1MOA Solutions conducts Precision Rifle marksmanship training courses throughout the U.S. for a variety of clients. (Not sure how or if you'd like to include this to incorporate my market base through 1MOA. This is a portion of the bio I submitted to boot campaign)
+In 2011 he founded 1MOA Solutions in order to utilize the marksmanship skills and abilities as a instructor to assist others with developing their individual shooting skills. 1MOA Solutions conducts Precision Rifle marksmanship training courses throughout the U.S. for a variety of clients.  
 
 <img src="http://professionalmarksmen.com/images/adam3.jpg" alt="Adam Wilson" style="width:360px;height:360px;">
 
