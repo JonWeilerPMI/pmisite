@@ -45,6 +45,8 @@ In 2013, Jon Weiler forged a new approach to working with Veterans and combat-re
 Jon Weiler has been featured in several printed publications, is a contributing writer for the magazine Tactical Weapons, highlighted on the Discovery Channel’s Future Weapons and Sons of Guns, the History Channel’s High Impact: M16 and Sniper: Bulletproof, Outdoor Channel’s Shooting Gallery and NRA All Access and Sportsman Channel Amazing America with Sarah Palin.
 
 
+# Follow Jon Weiler on Instagram!
 
-
+<!-- SnapWidget -->
+<iframe src="http://snapwidget.com/sc/?u=am9uX3dlaWxlcnxpbnwxNTB8M3wzfHx5ZXN8MjB8ZmFkZUlufG9uU3RhcnR8eWVzfHllcw==&ve=040815" title="Instagram Widget" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:500px; height:150px"></iframe>
 
