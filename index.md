@@ -72,8 +72,8 @@ widget-3:
 
  <table style="width:100%">
   <tr>
-    <td><center><a href="https://store.professionalmarksmen.com/index.php?l=product_list&c=51" target="_blank"><img src="http://professionalmarksmen.com/images/dngc.png" alt="PMI Training Sites" style="width:257px;height:300px;"></center></td>
-    <td><center><a href="http://nrawc.goemerchant-stores.com/Whittington-U_c_19.html" target="_blank"><img src="http://professionalmarksmen.com/images/whittingtonu.jpg" alt="Whittington U Courses" style="width:350px;height:350px;"></center></td>
+    <td><center><a href="https://store.professionalmarksmen.com/index.php?l=product_list&c=5" target="_blank"><img src="http://professionalmarksmen.com/images/dngc.png" alt="PMI Training Sites" style="width:257px;height:300px;"></center></td>
+    <td><center><a href="http://nrawc.goemerchant-stores.com/Whittington-U_c_19.html" target="_blank"><img src="http://professionalmarksmen.com/images/whittingtonu.jpg" alt="Whittington U Courses" style="width:350px;height:270px;"></center></td>
       </tr>
   <tr>
     <td><center><h2>PMI Training Locations</h2></center></td>
