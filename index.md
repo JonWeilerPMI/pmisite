@@ -38,7 +38,8 @@ widget-3:
 <div id="mc_embed_signup">
 <form action="//professionalmarksmen.us2.list-manage.com/subscribe/post?u=c2668a4722cb45bb6bf546f65&amp;id=c179792770" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe to the PMI Newsletter for articles, course offerings and training discounts!</h2>
+	<h1>Subscribe to the PMI Newsletter...</h1>
+	<h2>...for articles, course offerings and training discounts!</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
@@ -69,3 +70,14 @@ widget-3:
   <a class="close-reveal-modal">&#215;</a>
 </div>
 
+ <table style="width:100%">
+  <tr>
+    <td><a href="https://store.professionalmarksmen.com/index.php?l=product_list&c=51" target="_blank"><img src="http://professionalmarksmen.com/images/dngc.png" alt="PMI Training Sites" style="width:350px;height:350px;"></td>
+    <td><a href="http://nrawc.goemerchant-stores.com/Whittington-U_c_19.html" target="_blank"><img src="http://professionalmarksmen.com/images/whittingtonu.jpg" alt="Whittington U Courses" style="width:350px;height:350px;"></td>
+      </tr>
+  <tr>
+    <td>PMI Training Locations</td>
+    <td>Train with us at the Whittington U!</td>
+    
+  </tr>
+</table> 
