@@ -1,12 +1,13 @@
 ---
 layout: page
+sidebar: right
 subheadline: "The Defensive Lifestyle"
 title: "Train for Everyday"
 teaser: "A Defensive Posture is a very active one."
 header:
     image_fullwidth: "train_for_everyday.jpg"
     caption: PMI Defensive Rifle
-    caption_url: "https://store.professionalmarksmen.com/index.php?l=product_list&c=2"
+    caption_url: "https://store.professionalmarksmen.com/index.php?l=product_detail&p=2"
 image:
     thumb:  train_for_everyday_thumb.jpg
     homepage: train_for_everyday.jpg
