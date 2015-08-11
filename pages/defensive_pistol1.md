@@ -19,7 +19,8 @@ header:
 ##Location - Del Norte Gun Club, Albuquerque, NM
 
 ##Upcoming Training Dates: 
-###August 22-23, 2015
+
+*August 22-23, 2015
 
 <center><img src="http://professionalmarksmen.com/images/slider-1.jpg" alt="DNGC Courses, Albuquerque, NM" style="width:697px;height:435px;"></center>
 
