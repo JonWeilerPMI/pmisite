@@ -17,9 +17,12 @@ header:
 #Upcoming Defensive Pistol 1 Course Dates:
 
 ##Location - Del Norte Gun Club, Albuquerque, NM
+
 ##Date - August 22-23, 2015
 
-<a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=1" class="button round">Register</a>
+<center><img src="http://professionalmarksmen.com/images/slider-1.jpg" alt="DNGC Courses, Albuquerque, NM" style="width:697px;height:435px;"></center>
+
+<center><a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=1" class="button round">Register</a></center>
 
 
 [Professional Marksmen Inc.’s Defensive Pistol I Course][1] is the Introductory to Intermediate level Defensive Sidearm instruction that focuses on the Everyday Implementation of the Firearm Tool into our lives. PMI Defensive Pistol series focuses on Violence as a Means of Last Resort with defense being the number one priority.
