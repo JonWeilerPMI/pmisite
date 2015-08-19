@@ -10,7 +10,7 @@ header:
 ---
 ...and defensive firearm engagements. In 2003, Weiler took part in the invasion of Iraq with the 82nd Airborne Division as part of the 2nd Brigade Combat Team, 3/325 Airborne Infantry Regiment.  As part of the invading force, Weiler and his team of Scout Snipers moved throughout the Southern part of Iraq, leading into the urban environment of Baghdad. Weiler's unit occupied the SW Sector of Baghdad from 2003-2004, where he gained valuable operating experience in this environment, working in small teams for extended periods of time.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7Gju9OHBcgE" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ezJ_I-ZE6i4" frameborder="0" allowfullscreen></iframe>
 
 *Sniper Bulletproof - History Channel*
 
