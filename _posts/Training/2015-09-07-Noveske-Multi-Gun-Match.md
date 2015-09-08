@@ -29,7 +29,7 @@ The Noveske Multigun Championship 2015 was held at the Colorado Rifle Club in By
 
 The match consisted of 10 well designed yet very fun stages. 7 of the stages were completed on Saturday with the remaining 3 Sunday morning. I always appreciate matches that front load the stages. It allows for an earlier finish on the final day permitting for easier travel home. All of the stage descriptions were prior posted on the match’s Facebook page allowing for overview and strategy long prior to the match. Stage descriptions are always taken with an understanding that what you see in the stage description two months earlier might not be identical to what you see in the final stage design. Nonetheless the stages were executed well and everything ran smoothly from the competitor’s point of view. 
 
-<img src="http://professionalmarksmen.com/images/jrnoveske (2).jpg" alt="Jim Rutske Noveske" style="width:600px;height:347px;">
+<img src="http://professionalmarksmen.com/images/jrnoveske (5).jpg" alt="Jim Rutske Noveske" style="width:600px;height:347px;">
 
 
 I was lucky enough to be squaded with some great shooters. The squad ranged from brand new shooters to the pro competitors. This is often the case with any 3-gun match and it adds to the fun of it all. The one thing that is always in common though is the love of the sport. I often hear from new competitors that they were surprised everyone was so helpful and friendly. Everyone strives to make sure everybody is having a fun and safe time. Advice and helpful tips flow like water as we share thoughts and perspective and even often share the gear we brought along. I know I have borrowed out almost every piece of gear I own at one time or another. It is all for the love of the game. 
