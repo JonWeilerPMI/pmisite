@@ -16,14 +16,7 @@ categories:
 comments: true
 show_meta: false
 ---
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=206969579464673";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+
 
 
 <img src="http://professionalmarksmen.com/images/jrnoveske (3).jpg" alt="Jim Rutske Noveske" style="width:600px;height:347px;">
@@ -42,10 +35,9 @@ The match consisted of 10 well designed yet very fun stages. 7 of the stages wer
 I was lucky enough to be squaded with some great shooters. The squad ranged from brand new shooters to the pro competitors. This is often the case with any 3-gun match and it adds to the fun of it all. The one thing that is always in common though is the love of the sport. I often hear from new competitors that they were surprised everyone was so helpful and friendly. Everyone strives to make sure everybody is having a fun and safe time. Advice and helpful tips flow like water as we share thoughts and perspective and even often share the gear we brought along. I know I have borrowed out almost every piece of gear I own at one time or another. It is all for the love of the game. 
 The prize table was very well populated with some amazing prizes. The competitors pick a prize of their own choice and get called in the order of finishing place, but everyone walked away with a great prize this year. The match directors garnered some great industry donations from nearly all the major companies. I didn’t get to attend last year’s match but it has certainly grown from 2013. I know I’m looking forward to next year. 
 
-<img src="http://professionalmarksmen.com/images/jrnoveske.jpg" alt="Jim Rutske Noveske" style="width:600px;height:347px;">
+<img src="http://professionalmarksmen.com/images/jrnoveske (4).jpg" alt="Jim Rutske Noveske" style="width:600px;height:347px;">
 
 
 If you have ever thought about but never attended a multigun or 3-gun match I highly encourage you to do so. The gear you need is probably the gear you already have. Start with a local match at your nearby range to see, and experience what it is all about. You do not need to drop tons of money on gear to compete, just show up with what you have, and have a good time. See you on the range!
 
 
-<div class="fb-video" data-href="https://www.facebook.com/jim.rutske/videos/497195207107138/?pnref=story" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/jim.rutske/videos/497195207107138/"><a href="https://www.facebook.com/jim.rutske/videos/497195207107138/"></a><p>Final stage of the match. I decided to shoot the left shotgun array right shouldered. I knew the last shot would knock me out of the shooting box so I had to hit it while falling out. It paid off and ran a clean stage.</p>Posted by <a href="#" role="button">Jim Rutske</a> on Sunday, August 30, 2015</blockquote></div></div>
