@@ -32,7 +32,7 @@ PMI’s goal is the integration of the firearm tool into everyday life.  The PMI
 ## PMI Defensive Firearm Courses:
 
 <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=9" target="_blank"><img src="http://professionalmarksmen.com/images/fundfound1.jpg" alt="PMI Fundamental Foundations" style="width:350px;height:350px;">
-_Click the image above to register!_
+_Click the image to register!_
 
 ### Fundamental Foundations:  The Building Block of Defensive Pistol
 
@@ -40,7 +40,7 @@ _Click the image above to register!_
 * December 11, 2015
 
 <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=1" target="_blank"><img src="http://professionalmarksmen.com/images/defpist1.jpg" alt="PMI Defensive Pistol I" style="width:350px;height:350px;">
-_Click the image above to register!_
+_Click the image to register!_
 
 ### Defensive Pistol I:  
 * September 18-19, 2015
@@ -49,7 +49,7 @@ _Click the image above to register!_
 * December 12-13, 2015
 
 <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=2" target="_blank"><img src="http://professionalmarksmen.com/images/defrif1.jpg" alt="PMI Defensive Rifle I" style="width:350px;height:350px;">
-_Click the image above to register!_
+_Click the image to register!_
 
 ### Defensive Rifle I:  
 * September 28-29, 2015
@@ -57,7 +57,7 @@ _Click the image above to register!_
 * December 7-8, 2015
 
 <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=3" target="_blank"><img src="http://professionalmarksmen.com/images/defshot1.jpg" alt="PMI Defensive Shotgun I" style="width:350px;height:350px;">
-_Click the image above to register!_
+_Click the image to register!_
 
 ### Defensive Shotgun I:  
 
@@ -72,7 +72,7 @@ Professional Marksmen Inc. has been teaching precision rifle since its inception
 ## PMI Precision Rifle Course Dates:
 
 <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=10" target="_blank"><img src="http://professionalmarksmen.com/images/prerif1.jpg" alt="PMI Precision Rifle I" style="width:350px;height:350px;">
-_Click the image above to register!_
+_Click the image to register!_
 
 ### Precision Rifle I:  Holistic approach to Precision Long Range Shooting  
 
@@ -81,7 +81,7 @@ _Click the image above to register!_
 * December 16-18, 2015
 
 <a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=11" target="_blank"><img src="http://professionalmarksmen.com/images/huntprep.jpg" alt="PMI Hunter Prep Course" style="width:350px;height:350px;">
-_Click the image above to register!_
+_Click the image to register!_
 
 ### Hunter Prep:  Prepare for the upcoming Big Game Season
 
