@@ -1,16 +1,16 @@
 ---
 layout: page
 sidebar: right
-subheadline: "Scheduled Courses at Del Norte Gun Club"
-title: "PMI to hold Defensive and Precision Courses in Albuquerque, NM"
-teaser: "PMI Defensive and Precision Courses at DNGC..."
+subheadline: ""
+title: "Training From Concealed"
+teaser: ""Train for Everyday” is a fundamental concept of the Professional Marksmen Defensive Courses. "
 header:
-    image_fullwidth: "slider-1.jpg"
-    caption: Click here to register for the 2015 DNGC Courses!
-    caption_url: "https://store.professionalmarksmen.com/index.php?l=product_list&c=5"
+    image_fullwidth: "3.jpg"
+    caption: Training from Concealed
+    caption_url: "https://store.professionalmarksmen.com/index.php?l=product_detail&p=1"
 image:
-    thumb:  slider-1.jpg
-    homepage: slider-1.jpg
+    thumb:  3.jpg
+    homepage: 3.jpg
 categories:
     - Training
 comments: true
@@ -18,81 +18,46 @@ show_meta: false
 ---
 
 
-<img src="http://professionalmarksmen.com/images/slider-1.jpg" alt="PMI Del Norte Gun Club Courses" style="width:697px;height:435px;">
+<img src="http://professionalmarksmen.com/images/articles/3.jpg" alt="Jim Rutske" style="width:800px;height:600px;">
+
+We are convinced that the training you do on the range or in your home should directly relate to how you implement a defensive firearm into your everyday life. 
+
+This concept is profoundly important for anyone who has taken the immense responsibility of a legally concealed carry firearm. We have all too often heard from our students that they have never once drew and fired from their conceal carry holster, many of which have conceal carried for years. I’m going to discuss ways to still stay proficient using professional level training as well as fundamental in-home training drills. 
+
+We have all seen the dapper range shooters dressed in safe, comfortable, and weather appropriate range attire. They are adorned with conveniently placed simple to draw holsters, advantageous magazine carriers for fast reloads, properly tinted shooting glasses, electronic hearing protection, and a generous quantity of moderate velocity training ammunition. All of this culminates on engaging a large stationary paper target at eye level just a few yards away. Of course, this target is being engaged with a full sized semi-automatic sidearm freshly returned from the gunsmith after receiving a trigger job to get rid of that heavy and clunky factory trigger. This shooter wants the tightest groups possible to prove to themselves and quite possibly everyone at the range just how good of a shooter they are. Why does this description sound so familiar?  Because this was me when I first started shooting.  Is it you too? We may get the results we want but the training is not very true to real life. 
+
+Consider the last time you were conceal carrying. How many of the above factors in the range example were in play. Probably very few if any at all. So why do so many, myself included, often train so divergent to real life. I know why I did it, because it was easy and I got the results I thought I wanted and to be honest when I started I just didn’t know any better. My perspective has changed. We must train for how we honestly implement that firearm into our defensive lifestyle.   
+
+![Pocket]({{ site.url }}/images/articles/2.jpg)
 
 
-Professional Marksmen Inc. will be offering precision rifle and defensive-oriented firearm instruction at the Del Norte Gun Club in Albuquerque, NM, beginning in September of 2015.  Founded in 2007, Professional Marksmen Inc. has held courses around the United States and Internationally, instructing law enforcement, military and responsible firearm owners in both precision long range shooting and the defensive implementation of the firearm tool.  
+## Where to Train?
 
-Professional Marksmen Inc. are also the coordinators of the NRA Whittington Center’s training division: Whittington U, located in NE New Mexico along the beautiful Sangre de Cristo Mountains.  
+I am often told “but Jim, my range will not allow me to draw from a concealed holster”. Although this is unfortunately the case on many ranges, where the rules are found to be very strict against holster draw and even more so from concealed holsters. I researched a number of local indoor and outdoor ranges, read up on their posted rules and have found they mostly fall into two major categories: public and private ranges. Public ranges such as city run ranges and indoor pay by the hour ranges are generally very restrictive in what they will allow.  Most private membership and, often more rural ranges, are far less restrictive and allow more responsible freedom on the range. 
 
-# PMI Defensive Courses:  Train for Everyday
+The bottom line here is, if you want to train a certain way, perhaps to include drawing and firing from the concealed holster, you must do your homework and read up and ask about the range rules before you sign up. 
 
-PMI’s goal is the integration of the firearm tool into everyday life.  The PMI Defensive Courses revolve around the Defensive Implementation of the Pistol, Shotgun and Semi-Automatic Rifle Platforms.   Every PMI Defensive Course is open to all ages, genders and experience levels.  A Consistent-Efficient-Safe interaction with the firearm tool is the goal in each Defensive Course, regardless of the firearm platform.  Each course curriculum is designed around how we live our lives and the integration of the defensive tool.
+## Peripheral Training Options
 
-## PMI Defensive Firearm Courses:
+![Ammo]({{ site.url }}/images/articles/1.jpg)
 
-<a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=9" target="_blank"><img src="http://professionalmarksmen.com/images/fundfound1.jpg" alt="PMI Fundamental Foundations" style="width:350px;height:350px;">
-_Click the image to register!_
+What if you’re a member of restrictive range but still want to train from concealed? In-home drills can be a solid choice to practice drawing from your conceal holster and practicing your overall defensive posture. There are a number of safe options to make this possible while getting the most benefit from your training time. Laser training cartridges from Laserlyte or Laser Ammo are a great choice to accomplish this training. The laser assembly slides into the chamber of a completely clear firearm and presents a laser pulse with every release of the firing pin as it strikes a switch on the back of the cartridge. This gives you an indicator to your hits with nothing more than the cost of the cartridge and spare batteries. You can challenge yourself in various drills and shooting positions to continually push your skillset, all while comfortably in your home. 
 
-### Fundamental Foundations:  The Building Block of Defensive Pistol
+## Professional Instruction
 
-* October 9, 2015
-* December 11, 2015
+Another clear choice for many is high quality and professionally led training on a range which allows drawing from concealment. This training often provides the safest training with a very high level of long term retention. An example is in our Defensive Pistol Course, Professional Marksmen students are started with dry fire drills to ensure the presentation and engagement techniques are consistent, efficient and safe. The students then move to straightforward single shot live fire drills and keep progressing through multi-shot movement drills while using cover to gain advantage over a presented threat. Why do we go through such a progressive training? Because the students gain confidence and expand their capabilities all while consistently, efficiently, safely interacting with their sidearm.  The goal is retention of the information.
 
-<a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=1" target="_blank"><img src="http://professionalmarksmen.com/images/defpist1.jpg" alt="PMI Defensive Pistol I" style="width:350px;height:350px;">
-_Click the image to register!_
+If you have never or rarely practiced from the concealed holster but carry every day, you need to re-consider adding it to your training. Engaging from the concealed holster should not be taken lightly and must be practiced on a routine basis. I encourage you to seek professional level training as well as training in your home. 
 
-### Defensive Pistol I:  
-* September 18-19, 2015
-* October 10-11, 2015
-* November 14-15, 2015
-* December 12-13, 2015
+If you have any specific questions please contact us at info@professionalmarksmen.com. See you on the range!
 
-<a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=2" target="_blank"><img src="http://professionalmarksmen.com/images/defrif1.jpg" alt="PMI Defensive Rifle I" style="width:350px;height:350px;">
-_Click the image to register!_
+## About The Author
 
-### Defensive Rifle I:  
-* September 28-29, 2015
-* November 19-20, 2015
-* December 7-8, 2015
+![Author]({{ site.url }}/images/jimrutske.jpg)
 
-<a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=3" target="_blank"><img src="http://professionalmarksmen.com/images/defshot1.jpg" alt="PMI Defensive Shotgun I" style="width:350px;height:350px;">
-_Click the image to register!_
+### Jim Rutske 
 
-### Defensive Shotgun I:  
-
-* October 24-25, 2015
-* November 9-10, 2015
-
- 
-# PMI Precision Rifle Courses:  Shooting on the Edge of Science
-
-Professional Marksmen Inc. has been teaching precision rifle since its inception in 2007.  Leading the world with the progression of technical approach to precision long range shooting.  Each PMI Course focuses on a holistic understanding of the equipment, environment and self.  All courses utilize a shooter/spotter team on a reactive steel and progress on a curriculum designed to ensure the highest amount of retention of the material taught.  
-
-## PMI Precision Rifle Course Dates:
-
-<a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=10" target="_blank"><img src="http://professionalmarksmen.com/images/prerif1.jpg" alt="PMI Precision Rifle I" style="width:350px;height:350px;">
-_Click the image to register!_
-
-### Precision Rifle I:  Holistic approach to Precision Long Range Shooting  
-
-* October 4-6, 2015
-* November 15-17, 2015
-* December 16-18, 2015
-
-<a href="https://store.professionalmarksmen.com/index.php?l=product_detail&p=11" target="_blank"><img src="http://professionalmarksmen.com/images/huntprep.jpg" alt="PMI Hunter Prep Course" style="width:350px;height:350px;">
-_Click the image to register!_
-
-### Hunter Prep:  Prepare for the upcoming Big Game Season
-
-* October 30-31, 2015
-* December 4-5, 2015
-
-
-All PMI Instructors are Combat Veterans, meaning they train from direct experiences in combat zones.  Many PMI Instructors are also retired law enforcement officers, bringing with them a wealth of knowledge and experience to further enhance the instructional intent of the 
-Defensive and Precision Courses. 
-
-Be sure to sign up for our newsletter for updates on PMI Courses and articles!
+Jim Rutske is a defensive lifestyle enthusiast who has a deep delight for all things firearm related. Jim’s home base is presently Albuquerque NM and is the Chief Operations Officer for Professional Marksmen Inc. 
 
 
 
