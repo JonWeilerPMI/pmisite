@@ -1,7 +1,7 @@
 ---
 layout: page
 sidebar: right
-subheadline: "Training from Concealed"
+subheadline: "Training from Cealed"
 title: "Training From Concealed"
 teaser: ""Train for Everyday” is a fundamental concept of the Professional Marksmen Defensive Courses. "
 header:
