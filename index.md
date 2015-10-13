@@ -14,7 +14,7 @@ widget-1:
     text: 'The PMI Method is designed to teach to any student who attends our course, regardless of any previous firearm experience.  Our Instructors are all Combat Veterans who have directly applied the techniques taught in our Defensive Courses....  '
     image: pmimethod.jpg
 widget-2:
-    title: "Whittington U: World Class Training Facility"
+    title: "Whittington U: Shooting on the Edge of Science"
     url: 'http://whittingtonu.org'
     text: 'The Whittington U Precision Academy - School of Extreme Long Range: Shooting on the Edge of Science.  Three seperate ranges to facilitate a progressive curriculum, reactive steel targets and 2.07 Mile capabilities.'
     video: '<a href="#" data-reveal-id="videoModal"><img src="http://jonweilerpmi.github.io/pmisite/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
