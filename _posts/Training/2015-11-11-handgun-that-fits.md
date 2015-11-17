@@ -19,7 +19,7 @@ show_meta: false
 
 
 
-What our instructors also see is how sometimes the handgun does not properly fit the shooter. A firearm too big or too small creates an improper fit and can result in poor recoil management and overall reduced control of the firearm. The end result of a poor fitting handgun is it result in severely diminished accuracy. The consequences of a poor fit in a life defending moment can be massive. Our Whittington U instructors are trained to look for these issues and will guide the student on how to best correct it. 
+What our instructors also see is how sometimes the handgun does not properly fit the shooter. A firearm too big or too small creates an improper fit and can result in poor recoil management and overall reduced control of the firearm. The end result of a poor fitting handgun is it results in severely diminished accuracy, and the consequences of that poor fit in a life defending moment can be massive. Our Whittington U instructors are trained to look for these issues and will guide the student on how to best correct it.
 
 ##The three most common issues we see resulting in a poor fit are as follows: 
 
