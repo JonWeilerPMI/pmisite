@@ -7,6 +7,7 @@ teaser: "Work with the Best!"
 permalink: "/precision_lead/"
 header:
     image_fullwidth: "precinst.jpg"
+share: true
 ---
 
 # Job Title:  Precision Academy Lead Instructor
