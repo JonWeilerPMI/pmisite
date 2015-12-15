@@ -2,15 +2,15 @@
 layout: page
 sidebar: right
 subheadline: "Body mechanics and proper fundamentals"
-title: "Defensive Fundamental:  Trigger Pul"
+title: "Defensive Fundamental:  Trigger Pull"
 teaser: "I am often tasked on the defensive range to evaluate a shooters target and grouping..."
 header:
-    image_fullwidth: "trig1.jpg"
+    image_fullwidth: "articles/trig1.jpg"
     caption: Handgun that Fits
     caption_url: "https://store.professionalmarksmen.com/index.php?l=product_detail&p=1"
 image:
-    thumb:  trig1.jpg
-    homepage: trig1.jpg
+    thumb:  articles/trig1.jpg
+    homepage: articles/trig1.jpg
 categories:
     - Training
 comments: true
