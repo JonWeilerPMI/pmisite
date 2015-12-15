@@ -6,7 +6,7 @@ title: "Defensive Fundamental:  Trigger Pull"
 teaser: "I am often tasked on the defensive range to evaluate a shooters target and grouping..."
 header:
     image_fullwidth: "articles/trig1.jpg"
-    caption: Defensive Fundamenta:  Trigger Pull
+    caption: Trigger Pull
     caption_url: "https://store.professionalmarksmen.com/index.php?l=product_detail&p=1"
 image:
     thumb:  articles/trig1.jpg
