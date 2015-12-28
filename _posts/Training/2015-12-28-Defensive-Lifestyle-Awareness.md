@@ -69,11 +69,11 @@ That quote, taken from the article, is an interesting thought process.  In our c
 
 This leads back to Situational Awareness and Environmental Posturing:  
 
-*Where does our day take us and how and when are we likely to encounter others?  
+* Where does our day take us and how and when are we likely to encounter others?  
 
-*Is our city/town/area seeing a large economic downturn and if so, how is that affecting truancy and crime in the area?  
+* Is our city/town/area seeing a large economic downturn and if so, how is that affecting truancy and crime in the area?  
 
-*What is the likelihood of violent interaction with others?  
+* What is the likelihood of violent interaction with others?  
 
 Situational Awareness is immediate, with those moving about you.  Environmental Posturing is being aware of the potential for threats based on the external affects in a regional location.  This should mean our neighborhood, our routes to and from our homes and at our place of business/shopping/learning/etc.…
 
