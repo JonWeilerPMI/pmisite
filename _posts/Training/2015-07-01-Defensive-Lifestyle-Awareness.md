@@ -5,7 +5,7 @@ subheadline: "Situational Awareness and Environmental Posturing"
 title: "Defensive Lifestyle"
 teaser: "The questions is:  Would the firearm integrated into his everyday life changed the outcome of this?"
 header:
-    image_fullwidth: "train_for_everyday.jpg"
+    image_fullwidth: "5.jpg"
     caption: PMI Courses
     caption_url: "https://store.professionalmarksmen.com/"
 image:
@@ -16,21 +16,19 @@ categories:
 comments: true
 show_meta: false
 ---
-This article is taken from an actual event:  http://www.fox46charlotte.com/news/local-news/57051605-story 
+This article is taken from an actual event:  [http://www.fox46charlotte.com/news/local-news/57051605-story] 
 
 > “Give me your money or I’ll kill you.”
 
 This is the words heard by a man named Fernando Torres from Cornelius, NC during the first week of December, while pumping gas on his way home from work.  
 
-![Torres]({{ site.url }}/images/4.jpg)
+![Torres]({{ site.url }}/images/articles/4.jpg)
 
 > “He put a gun in my stomach and said give me your money or I’ll kill you. Then he hit me in the face and the stomach," said Torres.
 
-The article does not give an account of whether Torres was armed or not, but what if he were?  Would this have changed any outcome?
+I travel everywhere and find myself complacent on many occasions, especially while pumping gas.  Our routines change our perspectives.  In this case, Torress was going home after a day of work, looking forward to seeing his family when he assaulted. He was not anticipating this, it just happened.  The article does not give an account of whether Torres was armed or not, but what if he were?  Would this have changed any outcome?  
 
-That is difficult to answer.  An armed citizen is supposed to be vigilant, however this is not always the case.  I travel everywhere and find myself complacent on many occasions, especially while pumping gas.  Our routines change our perspectives.  This case, he was going home after a day of work, looking forward to seeing his family when his life was changed by the actions of another. 
- 
-The questions is:  Would the firearm integrated into his everyday life changed the outcome of this?  
+That is difficult to answer.  An armed citizen is supposed to be vigilant, however this is not always the case.  Again, I find myself in various stages of complacency - as we all do.  The questions is:  Would the firearm integrated into his everyday life changed the outcome of this?  
 
 I believe it would.
 
@@ -57,7 +55,7 @@ These questions are among others, but are the core of integrating the firearm to
 
 The final question is:  How are you preparing for this?    
 
-![Train]({{ site.url }}/images/6.jpg)
+![Train]({{ site.url }}/images/articles/6.jpg)
 
 ## Environmental Posturing
 
@@ -67,7 +65,7 @@ There are many factors that affect our society:  economy, politics, war and “t
 
 That quote is taken from the article and is an interesting thought process.  In courses where we discuss the Defensive Lifestyle, the ready response is “Let it happen to me,” without really taking into consideration the effect your loss would have on your loved ones.  We always want to protect them by shielding them from violence, but we also fill a large role in their lives.  There would be a great void left if you were no longer in it.  It is a challenging situation but necessary to consider.  We want to keep our children, husbands and wives safe and happy. This is impossible if we are no longer alive.
 
-![Aware]({{ site.url }}/images/7.jpg)
+![Aware]({{ site.url }}/images/articles/7.jpg)
 
 This leads back to Situational Awareness and Environmental Posturing.  Where does our day take us and how and when are we likely to encounter others?  Is our city/town/area seeing a large economic downturn and if so, how is that affecting truancy and crime in the area?  What is the likelihood of violent interaction with others?  Situational Awareness is immediate, with those moving about you.  Environmental Posturing is being aware of the potential for threats based on the external affects in a regional location.  This should mean our neighborhood, our routes to and from our homes and at our place of business/shopping/learning/etc.…
 
