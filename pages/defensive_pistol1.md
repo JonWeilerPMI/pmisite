@@ -12,7 +12,7 @@ header:
 
 #PMI Defensive Pistol 1:
 
-<a href="http://professionalmarksmen.com/defensive_pistol1" target="_blank"><img src="http://professionalmarksmen.com/images/defpist1.jpg" alt="PMI Defensive Pistol 1" style="width:350px;height:350px;">
+<a href="https://store.professionalmarksmen.com" target="_blank"><img src="http://professionalmarksmen.com/images/defpist1.jpg" alt="PMI Defensive Pistol 1" style="width:350px;height:350px;">
 
 [Professional Marksmen Inc.’s Defensive Pistol I Course][1] is the Introductory to Intermediate level Defensive Sidearm instruction that focuses on the Everyday Implementation of the Firearm Tool into our lives. PMI Defensive Pistol series focuses on Violence as a Means of Last Resort with defense being the number one priority.
 
