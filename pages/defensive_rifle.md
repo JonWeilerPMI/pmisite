@@ -27,19 +27,11 @@ Defensive Rifle I is very dynamic but is open to all ages and physical abilities
 <a href="http://professionalmarksmen.com/defensive_rifle2" target="_blank"><img src="http://professionalmarksmen.com/images/defrif2.jpg" alt="PMI Defensive Pistol" style="width:350px;height:350px;">
 
 
-[PMI’s Defensive Pistol 2 Course][2] is the Intermediate to Advanced level Defensive Sidearm instruction that focuses on the cognitive disconnect that occurs when the mind is under emotional duress.
+[PMI’s Defensive Rifle 2 Course][5] Our Defensive Rifle 2 is a 3 day, Intermediate to Advanced level course that increases the challenge in the Individual Movement Drills/Principles of Cover/Alternate Firing Positions, while introducing Lowlight Engagements and Engaging in Motion Drills.
 
-Advanced movement drills and alternate firing positions are the highlight of this course...[more][2]
-
-
-#PMI Defensive Pistol 3:
-
-<a href="http://professionalmarksmen.com/defensive_pistol3" target="_blank"><img src="http://professionalmarksmen.com/images/defpist3.jpg" alt="PMI Defensive Pistol 3" style="width:350px;height:350px;">
+Defensive Rifle II will expose you to an overall concept of a Defensive Lifestyle and how the semi-automatic rifle fits nicely within it....[more][5]
 
 
-[PMI’s Defensive Pistol III Course][3] is the Advanced Level Defensive Sidearm instruction that focuses on lowlight engagements, while employing a strong fundamental interaction with the firearm along with Principles of Cover. Support side engagements with the non-dominant hand are also a large portion of this course, with scenario based engagements rounding out the Defensive Pistol Series.
-
-PMI’s Defensive Discipline Pistol series focuses on Violence as a Means of Last Resort with the defense of ourselves and our loved ones as part of an overall lifestyle change....[more][3]
 
 
 
