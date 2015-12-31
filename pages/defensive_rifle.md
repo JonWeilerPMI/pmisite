@@ -17,8 +17,6 @@ header:
 
 [Our Defensive Rifle I][4] is a 3 day training event focusing on a holistic approach to the defensive implementation of the semi-automatic rifle. Defensive Rifle I works to instill a strong fundamental base of understanding in Internal Ballistics, External Ballistics, Terminal Ballistics, Marksmanship Techniques and Optical Adjustments as it relates to the Defensive Implementation of the Semi-Automatic Rifle.
 
-The semi-automatic rifle is built for movement and the Defensive Rifle I Course will create the confidence for virtual, unrestricted movement regardless of the environment.  The Movement Drills and Principles of Cover are designed to maximize a Consistent-Efficient-Safe Defensive Posture while putting us in the position of advantage in the Resolution of the Threat. 
-
 Defensive Rifle I is very dynamic but is open to all ages and physical abilities.   We strive to train to the individuals’ limits to not take away from the information presented.....[more][4]
 
 
