@@ -20,11 +20,11 @@ There are no previous requirements necessary to take PMI Defensive Pistol I Cour
 ##Defensive Pistol 1 will cover:
 
 Classroom InstructionStatic Fire Drills
-	   * Defensive Posture
-       * Fundamentals of Defensive Marksmanship
-       * 3-position presentation technique
-       * Principles of Cover
-       * Movement/Principles of Cover on Reactive Fire Range
+	   *Defensive Posture
+       *Fundamentals of Defensive Marksmanship
+       *3-position presentation technique
+       *Principles of Cover
+       *Movement/Principles of Cover on Reactive Fire Range
 
 ##What you will need:  (packing list is for each individual course)
 
