@@ -32,8 +32,6 @@
   dropdown:
   - title: "Jon Weiler"
     url: "/jon_weiler/"
-  - title: "Jim Rutske"
-    url: "/jim_rutske/"
   - title: "Steve Overman"
     url: "/steve_overman/"
 
