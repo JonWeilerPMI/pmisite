@@ -62,8 +62,8 @@ Adhere to the PMI Course Curriculum which includes but is not limited to:
 
 # Open Positions:  2016 Training Calendar
 
-Defensive Pistol Lead Instructor
-Defensive Shotgun Lead Instructor
-Defensive Rifle Lead Instructor
+* Defensive Pistol Lead Instructor
+* Defensive Shotgun Lead Instructor
+* Defensive Rifle Lead Instructor
 
 ## [Contact](/contact/) us for more information on working with us at Professional Marksmen Inc.!
