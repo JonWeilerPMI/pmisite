@@ -15,6 +15,7 @@ categories:
     - lifestyle
 comments: true
 show_meta: false
+share: true
 ---
 This article is taken from an actual event:  [Fox News Charlotte](http://www.fox46charlotte.com/news/local-news/57051605-story)
 
