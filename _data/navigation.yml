@@ -10,20 +10,18 @@
   url: "/calendar/"
   side: left
 
-- title: "Courses and Locations"
-  url: "/pmi_courses/"
+- title: "Register for Courses"
+  url: "https://store.professionalmarksmen.com/index.php?l=product_list&c=5"
   side: left
   dropdown:
-  - title: "Fundamental Foundations"
-    url: "/fundamental_foundations/"
   - title: "Defensive Pistol"
-    url: "/defensive_pistol/"
+    url: "https://store.professionalmarksmen.com/index.php?l=product_list&c=1"
   - title: "Defensive Rifle"
-    url: "/defensive_rifle/"
+    url: "https://store.professionalmarksmen.com/index.php?l=product_list&c=2"
   - title: "Defensive Shotgun"
-    url: "/defensive_shotgun/"
+    url: "https://store.professionalmarksmen.com/index.php?l=product_list&c=3"
   - title: "Whittington U"
-    url: "http://www.nrawc.org/training"
+    url: "http://nrawc.goemerchant-stores.com/Whittington-U_c_19.html"
 
 
 - title: "PMI Instructors"
