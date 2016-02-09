@@ -9,14 +9,14 @@ title: "Professional Marksmen Inc."
 header:
    image_fullwidth: "pmiheader.jpg"
 widget-1:
-    title: "The PMI Method - Effective Firearm Instruction based around Everyday Life."
-    url: '/info/'
-    text: 'The PMI Method is designed to teach to any student who attends our course, regardless of any previous firearm experience.  Our Instructors are all Combat Veterans who have directly applied the techniques taught in our Defensive Courses....  '
-    image: pmimethod.jpg
+    title: "PMI Courses at Del Norte Gun Club: Albuquerque, NM"
+    url: 'https://store.professionalmarksmen.com/'
+    text: 'Train with us in the Albuquerque, NM area at Del Norte Gun Club!  Courses are now online and open for registration!'
+    image: dngccourses.jpg
 widget-2:
-    title: "Whittington U: Shooting on the Edge of Science"
-    url: 'http://whittingtonu.org'
-    text: 'The Whittington U Precision Academy - School of Extreme Long Range: Shooting on the Edge of Science.  Three seperate ranges to facilitate a progressive curriculum, reactive steel targets and 2.07 Mile capabilities.'
+    title: "Whittington U: World Premiere Firearm Instruction"
+    url: 'http://nrawc.goemerchant-stores.com/Whittington-U_c_19.html'
+    text: 'Train with us at the Whittington U, located at the beautiful NRA Whittington Center in NE New Mexico.  World Premiere Outdoor and Firearm Training Facility!'
     video: '<a href="#" data-reveal-id="videoModal"><img src="http://jonweilerpmi.github.io/pmisite/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
 widget-3:
     title: "PMI Training Calendar"
