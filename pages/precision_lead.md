@@ -64,7 +64,12 @@ Provide instruction of the official PMI Precision Academy Course Curriculum at t
 * Observes students during live firing to ensure safety procedures are followed.
 
  
+# Open Positions:  2016 Training Calendar
 
+Precision Long Range Lead Instructor
+Extreme Long Range Lead Instructor
+
+## [Contact](/contact/) us for more information on working with us at Professional Marksmen Inc.!
  
  
 

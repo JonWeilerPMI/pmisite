@@ -10,7 +10,6 @@ header:
 ---
 
 
-# Job Title:  Defensive Academy Lead Instructor
 
 ## Defensive Academy Lead Instructor Purpose:
 
@@ -60,3 +59,11 @@ Adhere to the PMI Course Curriculum which includes but is not limited to:
 * Adhere to and enforce PMI Policies and SOPs at all times
 * Delivers corrective advice and guidance to students improving their fundamentals and marksmanship.
 * Observes students during live firing to ensure safety procedures are followed.
+
+# Open Positions:  2016 Training Calendar
+
+Defensive Pistol Lead Instructor
+Defensive Shotgun Lead Instructor
+Defensive Rifle Lead Instructor
+
+## [Contact](/contact/) us for more information on working with us at Professional Marksmen Inc.!
