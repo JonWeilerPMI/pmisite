@@ -39,9 +39,13 @@ format: post
 			{{ content }}
 			</span>
 
+			{% include share.html %} 
+            
 			{% if page.show_meta == true %}
 			{% include meta_information.html %}
 			{% endif %}
+
+            {% include social-buttons.html %}
 
 			{% if page.comments == true %}
 			{% include comments.html %}
