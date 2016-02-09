@@ -21,7 +21,7 @@ widget-2:
 widget-3:
     title: "PMI Training Calendar"
     url: '/calendar/'
-    text: '2015-2016 PMI and Whittington U Courses are now online.  Click above for upcoming Training Dates and locations! '
+    text: '2016 PMI and Whittington U Courses are now online.  Click above for upcoming Training Dates and locations! '
     image: calendar.jpg
 
 ---
