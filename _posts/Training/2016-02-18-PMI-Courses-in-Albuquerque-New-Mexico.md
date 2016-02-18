@@ -3,7 +3,7 @@ layout: page
 sidebar: right
 subheadline: "2016 Scheduled Courses at Del Norte Gun Club"
 title: "PMI to hold Defensive and Precision Courses in Albuquerque, NM"
-teaser: "PMI Defensive at DNGC..."
+teaser: "PMI Defensive at [DNGC](http://www.dngcnm.com/)..."
 header:
     image_fullwidth: "slider-5.jpg"
     caption: Click here to register for the 2016 DNGC Courses!
