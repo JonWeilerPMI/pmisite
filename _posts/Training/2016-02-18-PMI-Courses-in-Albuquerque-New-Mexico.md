@@ -30,7 +30,7 @@ PMI’s goal is the integration of the firearm tool into everyday life.  The PMI
 
 ## PMI Defensive Firearm Courses:
 
-
+[![DNGC Courses]({{ site.url }}/images/defpist1abq.jpg)](https://store.professionalmarksmen.com/index.php?l=product_detail&p=1)
 
 ### Defensive Pistol I:  
 
@@ -43,6 +43,8 @@ PMI’s goal is the integration of the firearm tool into everyday life.  The PMI
 * October 11-12, 2016
 * November 12-13, 2016
 
+[![Defensive Rifle]({{ site.url }}/images/defrif1abq.jpg)](https://store.professionalmarksmen.com/index.php?l=product_detail&p=2)
+_Click on the image above to register_
 
 ### Defensive Rifle I:  
 
@@ -51,6 +53,8 @@ PMI’s goal is the integration of the firearm tool into everyday life.  The PMI
 * August 15-16, 2016
 * November 25-26. 2016
 
+[![Defensive Rifle]({{ site.url }}/images/defshot1abq.jpg)](https://store.professionalmarksmen.com/index.php?l=product_detail&p=3)
+_Click on the image above to register_
 
 ### Defensive Shotgun I:  
 
