@@ -15,12 +15,6 @@ header:
 
 <center>_____________________________________________________</center>
 
-# Jim Rutske - PMI Chief of Operations
-
-<a href="/jim_rutske/"><img src="http://professionalmarksmen.com/images/jimrutske.jpg" alt="Jim Rutske - COO" style="width:800px;height:270px;">
-
-<center>_____________________________________________________</center>
-
 # Steve Overman - Defensive Lead Instructor
 
 <a href="/steve_overman/"><img src="http://professionalmarksmen.com/images/steveoverman.jpg" alt="Steve Overman - Defensive Lead Instructor" style="width:800px;height:370px;">
